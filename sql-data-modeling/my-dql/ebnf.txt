@@ -1,0 +1,125 @@
+query clause =
+    relation clause
+    [
+        whitespace list
+        tuple restriction clause
+    ]
+    [
+        whitespace list
+        attribute restriction clause
+    ]
+
+relation clause =
+    "get"
+    whitespace list
+    "relations"
+    whitespace list
+    relation names list
+
+whitespace list =
+    {
+        space
+        |
+        tab
+        |
+        newline
+    }-
+
+space =
+    " "
+
+tab =
+    "	"
+
+newline =
+    "
+"
+
+relation names list =
+    relation name
+    {
+        whitespace list
+        ","
+        whitespace list
+        relation name
+    }
+
+tuple restriction clause =
+    "then"
+    whitespace list
+    "restrict"
+    whitespace list
+    "tuples"
+    whitespace list
+    "to"
+    whitespace list
+    condition conjunction clauses list
+
+condition conjunction clauses list =
+    condition disjunction clauses list
+    {
+        whitespace list
+        "and"
+        whitespace list
+        condition disjunction clauses list
+    }
+
+condition disjunction clauses list =
+    condition negation clause
+    {
+        whitespace list
+        "or"
+        whitespace list
+        condition negation clause
+    }
+
+condition negation clause =
+    [
+        "not"
+        whitespace list
+    ]
+    condition clause
+
+condition clause =
+    qualified attribute name
+    whitespace list
+    "equal"
+    whitespace list
+    qualified attribute name
+
+qualified attribute name =
+    attribute name
+    whitespace list
+    "in"
+    whitespace list
+    relation name
+
+attribute name =
+    '"'
+    /[a-z_]+/
+    '"'
+
+relation name =
+    '"'
+    /[a-z_]+/
+    '"'
+
+attribute restriction clause =
+    "then"
+    whitespace list
+    "restrict"
+    whitespace list
+    "attributes"
+    whitespace list
+    "to"
+    whitespace list
+    qualified attribute names list
+
+qualified attribute names list =
+    qualified attribute name
+    {
+        whitespace list
+        ","
+        whitespace list
+        qualified attribute name
+    }

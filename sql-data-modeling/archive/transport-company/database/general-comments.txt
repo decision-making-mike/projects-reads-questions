@@ -1,0 +1,5 @@
+Type "serial". I have chosen not to use the type "serial". The reason is https://wiki.postgresql.org/wiki/Don't_Do_This#Don.27t_use_serial.
+
+Case of names, indentifiers, and similar. I have chosen to use the snake case for all names and identifiers, and similar.
+
+Case of SQL and PostgreSQL commands. I have chosen to write SQL and PostgreSQL commands in lowercase.
