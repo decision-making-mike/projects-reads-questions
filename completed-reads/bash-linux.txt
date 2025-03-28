@@ -26,3 +26,4 @@ https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessSubstitutionWhyLate
 https://unix.stackexchange.com/questions/206350/what-is-the-difference-if-i-start-bash-with-bin-bash-or-usr-bin-env-bash
 https://stackoverflow.com/questions/7268437/bash-script-execution-with-and-without-shebang-in-linux-and-bsd
 https://stackoverflow.com/questions/12296308/shell-script-working-fine-without-shebang-line-why
+https://en.m.wikipedia.org/wiki/Elapsed_real_time

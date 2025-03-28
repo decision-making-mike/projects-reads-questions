@@ -52,3 +52,11 @@ https://wiki.c2.com/?BusinessSystemTwelve
 https://wiki.c2.com/?TutorialDee
 https://wiki.c2.com/?TheThirdManifesto
 https://datatechnologytoday.wordpress.com/2017/07/18/what-the-null-handling-missing-information-in-database-systems/
+https://www.timescale.com/blog/13-tips-to-improve-postgresql-insert-performance
+https://stackoverflow.com/questions/57171841/is-there-any-functional-difference-between-array-upper-and-array-length
+https://www.timescale.com/blog/boosting-postgres-insert-performance
+https://stackoverflow.com/questions/8295131/best-practices-for-sql-varchar-column-length
+https://dba.stackexchange.com/questions/20974/should-i-add-an-arbitrary-length-limit-to-varchar-columns
+https://dba.stackexchange.com/questions/197047/how-to-profile-postgresql-instance
+https://www.timescale.com/learn/testing-postgres-ingest-insert-vs-batch-insert-vs-copy
+https://dzone.com/articles/using-a-variable-length-datatype-without-explicit
