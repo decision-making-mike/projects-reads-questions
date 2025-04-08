@@ -6,8 +6,7 @@ plot_file_path="$2"
 
 if [[ -z "$data_file_path" ]] || [[ -z "$plot_file_path" ]] || [[ "${plot_file_path: -3}" != 'png' ]]
 then
-    >&2 \
-        echo "Error"
+    >&2 echo "Error"
 
     exit 1
 fi
