@@ -55,3 +55,7 @@ https://superuser.com/questions/23428/vim-sudo-vim-bad-idea
 https://stackoverflow.com/questions/39264364/vim-difference-between-n-and-bn
 https://www.vimfromscratch.com/articles/spell-and-grammar-vim
 https://www.hanselman.com/blog/why-the-askobama-tweet-was-garbled-on-screen-know-your-utf8-unicode-ascii-and-ansi-decoding-mr-president
+https://m.youtube.com/watch?v=HpFMQE8KEnY
+https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/
+https://www.benfrederickson.com/github-wont-help-with-hiring/
