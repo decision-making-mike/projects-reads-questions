@@ -59,3 +59,6 @@ https://m.youtube.com/watch?v=HpFMQE8KEnY
 https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
 https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/
 https://www.benfrederickson.com/github-wont-help-with-hiring/
+https://blog.razorjack.net/2007/04/28/czcionki-dla-programistow-aby-kod-byl-czytelniejszy/
+https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99
+http://adam.wroclaw.pl/2015/05/zasada-najmniejszego-zaskoczenia/
