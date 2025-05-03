@@ -1,11 +1,3 @@
-https://softwareengineering.stackexchange.com/questions/11523/explaining-technical-things-to-non-technical-people
-https://m.youtube.com/watch?v=R1vskiVDwl4
-https://m.youtube.com/watch?v=o3K_HbpWNpg
-https://m.youtube.com/watch?v=QtKVbNc7NFs
-https://en.m.wikipedia.org/wiki/Unique_selling_proposition
-https://magazynt3.pl/fonty-szeryfowe-czyta-sie-latwiej-obalamy-internetowe-mity/
-https://blog.jim-nielsen.com/2020/system-fonts-on-the-web/
-https://polinal.pl/blog/czcionka-font-co-to-jest-typografia/
 https://martynakrajewska.pl/blog/empatia-w-pracy-copywritera-czym-jest-i-jak-ja-wykorzystac-w-tekstach-sprzedazowych/
 https://martynakrajewska.pl/blog/6-umiejetnosci-ktore-powinien-posiadac-dobry-copywriter/
 https://www.linkedin.com/pulse/how-tell-you-meant-copywriter-obinna-ikpe
@@ -13,3 +5,4 @@ https://martynakrajewska.pl/blog/jezyk-korzysci-copywriterska-manipulacja-w-teks
 https://dynanet.pl/2012/copywriting/z-warsztatu-copywritera/
 https://martynakrajewska.pl/blog/copywriter-ktory-sprzedal-zwykly-kamien-historia-pet-rocks/
 https://www.activecampaign.com/blog/how-to-write-great-copy
+https://en.m.wikipedia.org/wiki/Unique_selling_proposition
