@@ -63,3 +63,15 @@ https://blog.razorjack.net/2007/04/28/czcionki-dla-programistow-aby-kod-byl-czyt
 https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99
 http://adam.wroclaw.pl/2015/05/zasada-najmniejszego-zaskoczenia/
 https://uxplanet.org/microcopy-tiny-words-with-a-huge-ux-impact-90140acc6e42
+https://wiki.archlinux.org/title/Improving_performance/Boot_process
+https://web.archive.org/web/20210415174843/https://developer.ibm.com/articles/l-linuxboot/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Controlling_ratios_of_flex_items_along_the_main_axis
+https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Viewport_meta_element
+https://developer.mozilla.org/en-US/docs/Glossary/Device_pixel
+https://hacks.mozilla.org/2013/09/css-length-explained/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSSOM_view/Viewport_concepts
+https://mskelton.dev/bytes/open-browser-bookmarks-from-the-terminal
+https://www.reddit.com/r/webdev/comments/19avheb/what_does_a_full_endtoend_web_development_project/?sort=old
+https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Image_types
+https://unix.stackexchange.com/questions/62049/why-is-a-text-file-taking-up-at-least-4kb-even-when-theres-just-one-byte-of-tex
