@@ -75,3 +75,13 @@ https://mskelton.dev/bytes/open-browser-bookmarks-from-the-terminal
 https://www.reddit.com/r/webdev/comments/19avheb/what_does_a_full_endtoend_web_development_project/?sort=old
 https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Image_types
 https://unix.stackexchange.com/questions/62049/why-is-a-text-file-taking-up-at-least-4kb-even-when-theres-just-one-byte-of-tex
+https://www.sitepoint.com/understanding-and-using-rem-units-in-css/
+https://www.quirksmode.org/mobile/viewports.html
+https://www.quirksmode.org/mobile/viewports2.html
+https://www.quirksmode.org/css/quirksmode.html
+https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Quirks_mode_and_standards_mode
+https://www.quirksmode.org/blog/archives/2020/02/negative_margin.html
+https://stackoverflow.com/questions/63890796/why-does-my-html-tag-have-a-height-of-8px/63890864#63890864
+https://quirksmode.org/css/user-interface/boxsizing.html
+https://tedium.co/2024/06/16/jpeg-image-format-history/
+https://ubuntuforums.org/showthread.php?t=2479205

@@ -1,1 +1,2 @@
 https://unix.stackexchange.com/questions/791914/why-does-bin-echo-cause-sigpipe-while-bashs-built-in-echo-does-not
+https://issues.chromium.org/issues/417621250
