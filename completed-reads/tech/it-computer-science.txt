@@ -85,3 +85,4 @@ https://stackoverflow.com/questions/63890796/why-does-my-html-tag-have-a-height-
 https://quirksmode.org/css/user-interface/boxsizing.html
 https://tedium.co/2024/06/16/jpeg-image-format-history/
 https://ubuntuforums.org/showthread.php?t=2479205
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/X-Robots-Tag

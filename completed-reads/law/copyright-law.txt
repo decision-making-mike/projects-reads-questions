@@ -9,3 +9,6 @@ https://opensource.stackexchange.com/questions/13121/can-i-mix-cc-by-sa-3-0-and-
 https://scholarlykitchen.sspnet.org/2022/05/11/q-can-you-revoke-a-creative-commons-license-a-no-er-sort-of-maybe/
 https://academia.stackexchange.com/questions/26526/how-does-copyright-work-on-screen-captures
 https://thepequodblog.blogspot.com/2016/04/can-you-crop-image-under-creative.html?m=1
+https://opensource.stackexchange.com/questions/5478/is-the-output-of-an-open-source-program-licensed-the-same
+https://www.gnu.org/licenses/gpl-3.0.en.html
+https://opensource.stackexchange.com/questions/13908/how-do-i-require-commercial-users-of-the-output-of-my-software-to-give-attributi
