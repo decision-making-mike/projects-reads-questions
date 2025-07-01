@@ -1,0 +1,15 @@
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Controlling_ratios_of_flex_items_along_the_main_axis
+https://quirksmode.org/css/user-interface/boxsizing.html
+https://www.quirksmode.org/css/quirksmode.html
+https://stackoverflow.com/questions/63890796/why-does-my-html-tag-have-a-height-of-8px/63890864#63890864
+https://hacks.mozilla.org/2013/09/css-length-explained/
+https://m.slashdot.org/story/438477
+https://www.quirksmode.org/blog/archives/2020/02/negative_margin.html
+https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/
+https://www.sitepoint.com/understanding-and-using-rem-units-in-css/
+https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Quirks_mode_and_standards_mode
+https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Viewport_meta_element
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSSOM_view/Viewport_concepts
+https://www.reddit.com/r/AskComputerScience/comments/bhgtzp/why_did_tony_hoare_apologize_for_inventing_the/?sort=old
+https://www.quora.com/Why-was-the-Null-Pointer-Exception-in-Java-called-a-billion-dollar-mistake
+https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage

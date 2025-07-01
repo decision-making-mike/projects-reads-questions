@@ -1,0 +1,5 @@
+https://www.pcmag.com/news/openai-says-deepseek-could-be-compelled-to-cause-harm-calls-for-ban
+https://www.britannica.com/technology/What-Is-Machine-Learning
+https://stackoverflow.blog/2024/12/27/breaking-up-is-hard-to-do-chunking-in-rag-applications
+https://www.theverge.com/2017/5/17/15645908/google-ai-tensorflowlite-machine-learning-announcement-io-2017
+https://ai.stackexchange.com/questions/6240/where-do-random-seeds-get-used-in-deep-neural-networks

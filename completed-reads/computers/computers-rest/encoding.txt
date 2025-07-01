@@ -1,0 +1,12 @@
+https://www.reddit.com/r/explainlikeimfive/comments/8kp22x/eli5_byte_order_mark_what_is_it_and_how_does_it/?rdt=36911&sort=old
+https://unifont.org/unicodeprimer/
+https://github.com/frictionlessdata/datapackage/issues/613
+https://stackoverflow.com/questions/643694/what-is-the-difference-between-utf-8-and-unicode
+https://intermation.com/episode-3-09-utf-8-encoding-and-unicode-code-points/
+https://www.unicode.org/faq/utf_bom.html
+https://www.businessinsider.com/microsoft-outlook-fixes-j-smiley-emoticon-emoji-bug-2017-5?IR=T
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+https://stackoverflow.com/questions/2223882/whats-the-difference-between-utf-8-and-utf-8-with-bom
+https://why-openbsd.rocks/fact/utf8/
+https://stackoverflow.com/questions/19212306/whats-the-difference-between-ascii-and-unicode
+https://www.hanselman.com/blog/why-the-askobama-tweet-was-garbled-on-screen-know-your-utf8-unicode-ascii-and-ansi-decoding-mr-president
