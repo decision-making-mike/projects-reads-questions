@@ -19,17 +19,19 @@ BEGIN{
 {
     if( $0 !~ "->" ){
         name = $1
-        label_name = $2
-        first_category = $3
-        second_category = $4
+        position = $2
+        label_name = $3
+        first_category = $4
+        second_category = $5
 
         printf( \
-            "\t%s\n\t\t[ label = \"%s%s%s\" ]\n\t\t[ style = \"filled\" ]\n\t\t[ fillcolor = \"%s\" ]\n" ,
+            "\t%s\n\t\t[ label = \"%s%s%s\" ]\n\t\t[ style = \"filled\" ]\n\t\t[ fillcolor = \"%s\" pos = \"%s!\"]\n" ,
             name ,
             label_name ,
             "|" first_category ,
             second_category == "" ? "" : "|" second_category ,
-            get_color( first_category, second_category ) \
+            get_color( first_category, second_category ) ,
+            position \
         )
     } else print
 }
