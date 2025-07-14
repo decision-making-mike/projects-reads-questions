@@ -17,7 +17,7 @@ BEGIN{
 }
 
 {
-    if( $0 !~ "--" ){
+    if( $0 !~ "--" && $0 != "" ){
         name = $1
         position = $2
         label_name = $3
