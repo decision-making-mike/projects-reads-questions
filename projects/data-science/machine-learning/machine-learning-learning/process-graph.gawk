@@ -33,7 +33,7 @@ BEGIN{
             get_color( first_category, second_category ) ,
             position \
         )
-    } else print
+    } else print "\t" $0
 }
 
 END{
