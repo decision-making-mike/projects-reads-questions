@@ -13,11 +13,11 @@ To generate a diagram, you need
 
 #### Bash
 
-To generate a diagram from the file `machine-learning.dot.txt` in Bash, run e.g.
+To generate a PNG file with the diagram of the graph in the file `machine-learning.dot.txt` in Bash, run e.g.
 
 ```bash
 gawk \
 -f process-graph.gawk \
 machine-learning.dot.txt \
-    | dot -Tpng
+    | neato -Tpng
 ```
