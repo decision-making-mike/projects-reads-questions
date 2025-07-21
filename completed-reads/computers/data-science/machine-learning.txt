@@ -3,3 +3,8 @@ https://www.britannica.com/technology/What-Is-Machine-Learning
 https://stackoverflow.blog/2024/12/27/breaking-up-is-hard-to-do-chunking-in-rag-applications
 https://www.theverge.com/2017/5/17/15645908/google-ai-tensorflowlite-machine-learning-announcement-io-2017
 https://ai.stackexchange.com/questions/6240/where-do-random-seeds-get-used-in-deep-neural-networks
+Fast development of AI applications in Zephyr with Linkable Loadable Extensions – Zephyr Project, https://zephyrproject.org/fast-development-of-ai-applications-in-zephyr-with-linkable-loadable-extensions/
+Problem XOR - strona główna, https://home.agh.edu.pl/~vlsi/AI/xor_t/glowna.htm
+deep learning - What is Coarse-to-Fine in the context of neural networks? - Data Science Stack Exchange, https://datascience.stackexchange.com/questions/47921/what-is-coarse-to-fine-in-the-context-of-neural-networks
+C# or Java? TypeScript or JavaScript? Machine learning based classification of programming languages - The GitHub Blog, https://web.archive.org/web/20250519171033/https://github.blog/ai-and-ml/machine-learning/c-or-java-typescript-or-javascript-machine-learning-based-classification-of-programming-languages/
+Machine learning - Wikipedia, https://en.m.wikipedia.org/wiki/Machine_learning

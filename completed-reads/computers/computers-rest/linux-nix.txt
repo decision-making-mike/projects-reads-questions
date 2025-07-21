@@ -61,3 +61,9 @@ https://bbs.archlinux.org/viewtopic.php?id=156882
 https://unix.stackexchange.com/questions/691923/error-message-here-end-kernel-panic-not-syncing-attempted-to-kill-init-exitc
 https://github.com/raspberrypi/linux/issues/4171
 https://github.com/clearlinux/distribution/issues/186
+Fonts on Linux, Chapter One: Changing Default and Fallback Fonts with Fontconfig - dt.iki.fi, https://dt.iki.fi/fontconfig-1
+terminal - What is the point of Ctrl-S? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/137842/what-is-the-point-of-ctrl-s
+shell - The difference between \e and ^[ - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/89812/the-difference-between-e-and
+bash - How to handle backspace while reading? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/151068/how-to-handle-backspace-while-reading
+The TTY demystified, https://www.linusakesson.net/programming/tty/
+Entering text in the terminal is complicated, https://jvns.ca/blog/2024/07/08/readline/

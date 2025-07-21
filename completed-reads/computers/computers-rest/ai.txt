@@ -9,3 +9,6 @@ https://en.m.wikipedia.org/wiki/Artificial_intelligence
 https://developers.googleblog.com/en/coral-moves-out-of-beta/
 https://techspresso.cafe/2025/06/30/nyt-sztuczna-inteligencja-wykorzystana-do-wplywania-na-wybory-w-polsce/
 https://en.m.wikipedia.org/wiki/Agentic_AI
+Intelligent agent - Wikipedia, https://en.m.wikipedia.org/wiki/Intelligent_agent
+AI Agent Design: How ‘Human’ Should They Be? In Short, Not Very, https://www.salesforce.com/blog/ai-agent-design/
+What we can learn about AI from the ‘dead internet theory’ - Tech Monitor, https://www.techmonitor.ai/comment-2/kaas-dead-internet-synthetic-data

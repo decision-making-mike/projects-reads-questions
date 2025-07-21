@@ -13,3 +13,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSSOM_view/Viewport_concepts
 https://www.reddit.com/r/AskComputerScience/comments/bhgtzp/why_did_tony_hoare_apologize_for_inventing_the/?sort=old
 https://www.quora.com/Why-was-the-Null-Pointer-Exception-in-Java-called-a-billion-dollar-mistake
 https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+The Simplest Thing that Could Possibly Work, https://www.artima.com/articles/the-simplest-thing-that-could-possibly-work
+Julien Palard - [Bashism] How to generate random number without $RANDOM ?, https://mdk.fr/blog/bashism-how-to-generate-random-number-without-random.html
+Tacit programming - Wikipedia, https://en.m.wikipedia.org/wiki/Tacit_programming
+jq (programming language) - Wikipedia, https://en.m.wikipedia.org/wiki/Jq_(programming_language)
+Tutorial, https://jqlang.org/tutorial/
+jq Primer: Munging JSON Data - Andrew Gibiansky, https://andrew.gibiansky.com/blog/command-line/jq-primer/

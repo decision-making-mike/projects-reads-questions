@@ -1,0 +1,4 @@
+Data management - Wikipedia, https://en.m.wikipedia.org/wiki/Data_management
+Data engineering - Wikipedia, https://en.m.wikipedia.org/wiki/Data_engineering
+SharePoint - Wikipedia, https://en.m.wikipedia.org/wiki/SharePoint
+Sharepoint alternatives on linux / open-source world? : r/linuxadmin, https://www.reddit.com/r/linuxadmin/comments/37p3ws/sharepoint_alternatives_on_linux_opensource_world/?sort=old
