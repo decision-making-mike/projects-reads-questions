@@ -1,8 +1,8 @@
-https://docs.github.com/en/site-policy/github-terms/github-terms-of-service
-https://arstechnica.com/tech-policy/2015/04/how-the-dmca-made-youtube/
-https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies
-https://docs.github.com/en/site-policy/github-terms/github-community-guidelines
-https://pl.m.wikipedia.org/wiki/Pomoc_prawna
-https://pl.m.wikipedia.org/wiki/International_Legal_Aid_Group
-https://en.m.wikipedia.org/wiki/Legal_advice
-https://www.bbc.com/news/technology-55350795
+Pomoc prawna – Wikipedia, wolna encyklopedia, https://pl.m.wikipedia.org/wiki/Pomoc_prawna
+Legal advice - Wikipedia, https://en.m.wikipedia.org/wiki/Legal_advice
+GitHub Acceptable Use Policies - GitHub Docs, https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies
+International Legal Aid Group – Wikipedia, wolna encyklopedia, https://pl.m.wikipedia.org/wiki/International_Legal_Aid_Group
+GitHub Terms of Service - GitHub Docs, https://docs.github.com/en/site-policy/github-terms/github-terms-of-service
+GitHub Community Guidelines - GitHub Docs, https://docs.github.com/en/site-policy/github-terms/github-community-guidelines
+Happy birthday YouTube! The Digital Millennium Copyright Act sends its love - Ars Technica, https://arstechnica.com/tech-policy/2015/04/how-the-dmca-made-youtube/
+Facebook and Instagram disable features in Europe - BBC News, https://www.bbc.com/news/technology-55350795

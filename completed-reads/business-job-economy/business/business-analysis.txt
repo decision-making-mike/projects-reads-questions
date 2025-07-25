@@ -1,5 +1,5 @@
-https://en.m.wikipedia.org/wiki/Fundamental_analysis
-https://www.youtube.com/watch?v=QtUP04RIQFg
-https://en.m.wikipedia.org/wiki/Business_Process_Model_and_Notation
-https://www.youtube.com/watch?v=sUdhXn1w75Y
-https://martinfowler.com/articles/is-quality-worth-cost.html
+Business Process Modeling - "How to Make Toast" | Business Process Management | Ed Tchoi - YouTube, https://m.youtube.com/watch?v=QtUP04RIQFg
+What is Business Process Modeling? - YouTube, https://m.youtube.com/watch?v=sUdhXn1w75Y
+Fundamental analysis - Wikipedia, https://en.m.wikipedia.org/wiki/Fundamental_analysis
+Business Process Model and Notation - Wikipedia, https://en.m.wikipedia.org/wiki/Business_Process_Model_and_Notation
+Is High Quality Software Worth the Cost?, https://martinfowler.com/articles/is-quality-worth-cost.html

@@ -1,4 +1,2 @@
-https://en.m.wikipedia.org/wiki/Mailing_list
-https://en.wikipedia.org/wiki/Distribution_list
-https://www.reddit.com/r/networking/comments/wdknu8/scriptingprogramming_languages_that_are_useful_to/
+Scripting/Programming languages that are useful to learn? : r/networking, https://www.reddit.com/r/networking/comments/wdknu8/scriptingprogramming_languages_that_are_useful_to/
 McDonald’s AI hiring tool’s password ‘123456’ exposed data of 64M applicants | CSO Online, https://www.csoonline.com/article/4020919/mcdonalds-ai-hiring-tools-password-123456-exposes-data-of-64m-applicants.html

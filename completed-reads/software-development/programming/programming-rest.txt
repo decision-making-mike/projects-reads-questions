@@ -1,0 +1,4 @@
+Mixing Rust and C in Linux Likened To Cancer By Kernel Maintainer - Slashdot, https://m.slashdot.org/story/438477
+Null References: The Billion Dollar Mistake, https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/
+Tacit programming - Wikipedia, https://en.m.wikipedia.org/wiki/Tacit_programming
+The Simplest Thing that Could Possibly Work, https://www.artima.com/articles/the-simplest-thing-that-could-possibly-work

@@ -1,3 +1,0 @@
-https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Image_types
-https://tedium.co/2024/06/16/jpeg-image-format-history/
-ios - Why do iPhone photos have Microsoft in Exif data? - Ask Different, https://apple.stackexchange.com/questions/187616/why-do-iphone-photos-have-microsoft-in-exif-data

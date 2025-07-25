@@ -1,0 +1,4 @@
+A successful Git branching model » nvie.com, https://nvie.com/posts/a-successful-git-branching-model/
+git - How do I create tag with certain commits and push it to origin? - Stack Overflow, https://stackoverflow.com/questions/25755061/how-do-i-create-tag-with-certain-commits-and-push-it-to-origin/25755777#25755777
+GitHub Flow, https://githubflow.github.io/
+Git ignore BOM (prevent git diff from showing byte order mark changes) - Stack Overflow, https://stackoverflow.com/questions/27223985/git-ignore-bom-prevent-git-diff-from-showing-byte-order-mark-changes

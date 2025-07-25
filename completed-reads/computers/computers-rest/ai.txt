@@ -1,14 +1,14 @@
-https://www.linkedin.com/pulse/were-solving-wrong-ai-problem-its-time-certify-humans-katalin-glzpc/
-https://venturebeat.com/ai/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/
-https://www.theguardian.com/us-news/2025/jan/21/trump-ai-joint-venture-openai-oracle-softbank
-https://wingedit.pl/it-industry-in-poland/elevenlabs-announces-11m-investment-in-polands-ai-future/
-https://mycompanypolska.pl/artykul/wsiasc-do-pociagu-czyli-jak-rozwijac-ai-w-polsce/16782
-https://blog.mozilla.org/en/mozilla/a-third-way-on-ai/
-https://en.m.wikipedia.org/wiki/AI_effect
-https://en.m.wikipedia.org/wiki/Artificial_intelligence
-https://developers.googleblog.com/en/coral-moves-out-of-beta/
-https://techspresso.cafe/2025/06/30/nyt-sztuczna-inteligencja-wykorzystana-do-wplywania-na-wybory-w-polsce/
-https://en.m.wikipedia.org/wiki/Agentic_AI
+AI effect - Wikipedia, https://en.m.wikipedia.org/wiki/AI_effect
+We’re Solving the Wrong AI Problem: It’s Time to Certify Humans, Not Detect AI | LinkedIn, https://www.linkedin.com/pulse/were-solving-wrong-ai-problem-its-time-certify-humans-katalin-glzpc/
+Wsiąść do pociągu, czyli jak rozwijać AI w Polsce, https://mycompanypolska.pl/artykul/wsiasc-do-pociagu-czyli-jak-rozwijac-ai-w-polsce/16782
 Intelligent agent - Wikipedia, https://en.m.wikipedia.org/wiki/Intelligent_agent
+Agentic AI - Wikipedia, https://en.m.wikipedia.org/wiki/Agentic_AI
+Janelle Shane explains AI with weirdness and humor, in book form | VentureBeat, https://venturebeat.com/ai/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/
+Trump unveils $500bn joint AI venture between OpenAI, Oracle and SoftBank | Donald Trump | The Guardian, https://www.theguardian.com/us-news/2025/jan/21/trump-ai-joint-venture-openai-oracle-softbank
 AI Agent Design: How ‘Human’ Should They Be? In Short, Not Very, https://www.salesforce.com/blog/ai-agent-design/
+A Third Way on AI, https://blog.mozilla.org/en/mozilla/a-third-way-on-ai/
+Artificial intelligence - Wikipedia, https://en.m.wikipedia.org/wiki/Artificial_intelligence
+Coral moves out of beta - Google Developers Blog, https://developers.googleblog.com/en/coral-moves-out-of-beta/
 What we can learn about AI from the ‘dead internet theory’ - Tech Monitor, https://www.techmonitor.ai/comment-2/kaas-dead-internet-synthetic-data
+ElevenLabs Announces $11M Investment in Poland's AI Future, https://wingedit.pl/it-industry-in-poland/elevenlabs-announces-11m-investment-in-polands-ai-future/
+„NYT”: sztuczna inteligencja wykorzystana do wpływania na wybory w Polsce - TECHSPRESSO.CAFE, https://techspresso.cafe/2025/06/30/nyt-sztuczna-inteligencja-wykorzystana-do-wplywania-na-wybory-w-polsce/

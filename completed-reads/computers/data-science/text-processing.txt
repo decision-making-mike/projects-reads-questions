@@ -1,1 +1,1 @@
-https://www.grymoire.com/Unix/Awk.html
+Awk - A Tutorial and Introduction - by Bruce Barnett, https://www.grymoire.com/Unix/Awk.html

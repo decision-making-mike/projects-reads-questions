@@ -1,0 +1,70 @@
+escape characters - Why does Ctrl-D (EOF) exit the shell? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/110240/why-does-ctrl-d-eof-exit-the-shell
+Code Yarns – How to grep in Vim, https://codeyarns.com/tech/2017-09-14-how-to-grep-in-vim.html#gsc.tab=0
+shell script - How to compose bash functions using pipes? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/114121/how-to-compose-bash-functions-using-pipes
+bash - Get cursor location in tty without reading from stdin (need help with redirections) - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/714209/get-cursor-location-in-tty-without-reading-from-stdin-need-help-with-redirectio/714322#714322
+linux - Getting this weird error in zsh shell 'top: failed tty set: Interrupted system call' - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/580888/getting-this-weird-error-in-zsh-shell-top-failed-tty-set-interrupted-system-c
+bash - Why process substitution with binary doesn't work? - Stack Overflow, https://stackoverflow.com/questions/57504705/why-process-substitution-with-binary-doesnt-work
+vimfromscratch.com/articles/spell-and-grammar-vim, https://www.vimfromscratch.com/articles/spell-and-grammar-vim
+Improving performance/Boot process - ArchWiki, https://wiki.archlinux.org/title/Improving_performance/Boot_process
+shell - Why does the terminal echo keystrokes when commands are running? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/210628/why-does-the-terminal-echo-keystrokes-when-commands-are-running
+shell script - Is piping, shifting, or parameter expansion more efficient? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/497985/is-piping-shifting-or-parameter-expansion-more-efficient
+bash - Is it safe to type another command into STDIN while the previous command is writing to STDOUT? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/178989/is-it-safe-to-type-another-command-into-stdin-while-the-previous-command-is-writ
+VIM: "sudo vim bad_idea"? - Super User, https://superuser.com/questions/23428/vim-sudo-vim-bad-idea
+Autocommands / Learn Vimscript the Hard Way, https://learnvimscriptthehardway.stevelosh.com/chapters/12.html
+ubuntu - Error message here end Kernel Panic - not syncing: attempted to kill init! exitcode=0x00007f00 - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/691923/error-message-here-end-kernel-panic-not-syncing-attempted-to-kill-init-exitc
+systemctl poweroff: kernel panic · Issue #186 · clearlinux/distribution, https://github.com/clearlinux/distribution/issues/186
+Why you should use named pipes on Linux | Network World, https://www.networkworld.com/article/965112/why-use-named-pipes-on-linux.html
+user interface - Dialog from bash script - Stack Overflow, https://stackoverflow.com/questions/8354482/dialog-from-bash-script
+linux - Why did ; after & return an unexpected token error in bash? - Super User, https://superuser.com/questions/269429/why-did-after-return-an-unexpected-token-error-in-bash
+Vim (text editor) - Wikipedia, https://en.m.wikipedia.org/wiki/Vim_(text_editor)
+shell - Difference in pipe and file redirection - BASH - Stack Overflow, https://stackoverflow.com/questions/33531747/difference-in-pipe-and-file-redirection-bash/33532589#33532589
+Security Implications of using unsanitized data in Shell Arithmetic evaluation - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/172103/security-implications-of-using-unsanitized-data-in-shell-arithmetic-evaluation
+Poweroff causing: Kernel panic – not syncing: Attempted to kill init! · Issue #4171 · raspberrypi/linux, https://github.com/raspberrypi/linux/issues/4171
+linux - What is the difference between screen-256 color and xterm-256color - Super User, https://superuser.com/questions/424086/what-is-the-difference-between-screen-256-color-and-xterm-256color
+Named pipe - Wikipedia, https://en.m.wikipedia.org/wiki/Named_pipe
+Virtual console - Wikipedia, https://en.m.wikipedia.org/wiki/Virtual_console
+vim - What are the typical use cases for vi? - Stack Overflow, https://stackoverflow.com/questions/1310661/what-are-the-typical-use-cases-for-vi
+Kernel panic - Wikipedia, https://en.m.wikipedia.org/wiki/Kernel_panic
+vim: difference between :n and :bn - Stack Overflow, https://stackoverflow.com/questions/39264364/vim-difference-between-n-and-bn
+Specify UTF-8 encoding in Vimrc - Vi and Vim Stack Exchange, https://vi.stackexchange.com/questions/17323/specify-utf-8-encoding-in-vimrc
+Is there a way to improve performance of linux pipes? - Stack Overflow, https://stackoverflow.com/questions/12626227/is-there-a-way-to-improve-performance-of-linux-pipes
+bash - When was the shellshock (CVE-2014-6271/7169) bug introduced, and what is the patch that fully fixes it? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/157381/when-was-the-shellshock-cve-2014-6271-7169-bug-introduced-and-what-is-the-pat/157495#157495
+Is openbox the future? - News & Development / Development & Suggestions - Mabox Linux Forum, https://forum.maboxlinux.org/t/is-openbox-the-future/1476/17
+bash - Does Linux Pipe command needs a process to execute? - Stack Overflow, https://stackoverflow.com/questions/51508833/does-linux-pipe-command-needs-a-process-to-execute
+Happy birthday!, https://groups.google.com/g/vim_announce/c/bQtQSHTK1sg?pli=1
+Why, oh WHY, do those #?@! nutheads use vi?, http://www.viemu.com/a-why-vi-vim.html
+Elapsed real time - Wikipedia, https://en.m.wikipedia.org/wiki/Elapsed_real_time
+Why is vim not using UTF-8 as character encoding? : r/vim, https://www.reddit.com/r/vim/comments/fvm0v0/why_is_vim_not_using_utf8_as_character_encoding/?sort=old
+vimrc - What is the purpose of swap files? - Vi and Vim Stack Exchange, https://vi.stackexchange.com/questions/177/what-is-the-purpose-of-swap-files
+bash - Which file descriptor numbers are safe to use in (POSIX) shell scripts? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/748702/which-file-descriptor-numbers-are-safe-to-use-in-posix-shell-scripts
+Get autocompletion when invoking a "read" inside a Bash script - Stack Overflow, https://stackoverflow.com/questions/4819819/get-autocompletion-when-invoking-a-read-inside-a-bash-script
+Special characters in Vim | Arabesque, https://blog.sanctum.geek.nz/special-characters-in-vim/
+Chris's Wiki :: blog/unix/ProcessSubstitutionWhyLate, https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessSubstitutionWhyLate
+syntax highlighting - How to make Vim highlight the content of a Markdown code span or code block? - Vi and Vim Stack Exchange, https://vi.stackexchange.com/questions/46085/how-to-make-vim-highlight-the-content-of-a-markdown-code-span-or-code-block
+terminal - What is the point of Ctrl-S? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/137842/what-is-the-point-of-ctrl-s
+Open Browser Bookmarks from the Terminal | Mark Skelton, https://mskelton.dev/bytes/open-browser-bookmarks-from-the-terminal
+bash - What occurs when I use redirection without leading commands? - Stack Overflow, https://stackoverflow.com/questions/76373352/what-occurs-when-i-use-redirection-without-leading-commands
+linux - Shell script working fine without shebang line? Why? - Stack Overflow, https://stackoverflow.com/questions/12296308/shell-script-working-fine-without-shebang-line-why
+Vim show newline at the end of file - Stack Overflow, https://stackoverflow.com/questions/15639511/vim-show-newline-at-the-end-of-file
+Inside the Linux boot process – IBM Developer, https://web.archive.org/web/20210415174843/https://developer.ibm.com/articles/l-linuxboot/
+environment variables - What is the difference if I start bash with "/bin/bash" or "/usr/bin/env bash"? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/206350/what-is-the-difference-if-i-start-bash-with-bin-bash-or-usr-bin-env-bash
+Home | Vim Cheat Sheet, https://vim.rtorr.com/
+Vim 6.4 Released - Slashdot, https://slashdot.org/comments.pl?sid=165492&cid=13808398
+Vim registers: The basics and beyond, https://www.brianstorti.com/vim-registers/
+Bash script execution with and without shebang in Linux and BSD - Stack Overflow, https://stackoverflow.com/questions/7268437/bash-script-execution-with-and-without-shebang-in-linux-and-bsd
+linux - Aborting a shell script if any command returns a non-zero value - Stack Overflow, https://stackoverflow.com/questions/821396/aborting-a-shell-script-if-any-command-returns-a-non-zero-value/821419#821419
+newline - Why do I need vim in binary mode for 'noeol' to work? - Stack Overflow, https://stackoverflow.com/questions/16222530/why-do-i-need-vim-in-binary-mode-for-noeol-to-work
+shell - The difference between \e and ^[ - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/89812/the-difference-between-e-and
+18.04: kernel panic - not syncing: attempting to kill init! exit code-0x00000100 - Ask Ubuntu, https://askubuntu.com/questions/1208053/18-04-kernel-panic-not-syncing-attempting-to-kill-init-exit-code-0x00000100
+Fonts on Linux, Chapter One: Changing Default and Fallback Fonts with Fontconfig - dt.iki.fi, https://dt.iki.fi/fontconfig-1
+bash - How to handle backspace while reading? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/151068/how-to-handle-backspace-while-reading
+Kernel panic - not syncing: Attempted to kill init! exitcode=0x00007f00 - Linux Mint Forums, https://forums.linuxmint.com/viewtopic.php?t=336935
+linux - Shell prompt colored outside of tmux, but not in tmux; how can I get colored prompt in tmux? - Super User, https://superuser.com/questions/1838764/shell-prompt-colored-outside-of-tmux-but-not-in-tmux-how-can-i-get-colored-pro
+Entering text in the terminal is complicated, https://jvns.ca/blog/2024/07/08/readline/
+On column positions in vim, https://ro-che.info/articles/2013-12-14-vim-positions
+Using buffers, windows, and tabs efficiently in Vim - DEV Community, https://dev.to/iggredible/using-buffers-windows-and-tabs-efficiently-in-vim-56jc
+"Kernel panic - not syncing: Attempted to kill init!" on shutdown / Laptop Issues / Arch Linux Forums, https://bbs.archlinux.org/viewtopic.php?id=156882
+Vim command window | Arabesque, https://blog.sanctum.geek.nz/vim-command-window/
+bash - Why is testing "$?" to see if a command succeeded or not, an anti-pattern? - Stack Overflow, https://stackoverflow.com/questions/36313216/why-is-testing-to-see-if-a-command-succeeded-or-not-an-anti-pattern
+The TTY demystified, https://www.linusakesson.net/programming/tty/
+xorg - How do I run a graphical application in a virtual console besides <Alt+F7>? - Ask Ubuntu, https://askubuntu.com/questions/57533/how-do-i-run-a-graphical-application-in-a-virtual-console-besides-altf7

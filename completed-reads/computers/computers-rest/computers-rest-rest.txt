@@ -1,9 +1,9 @@
-PCaaS - Wikipedia, https://en.m.wikipedia.org/wiki/PCaaS
-Notebook interface - Wikipedia, https://en.m.wikipedia.org/wiki/Notebook_interface
-Zephyr (operating system) - Wikipedia, https://en.m.wikipedia.org/wiki/Zephyr_(operating_system)
+What happens when you press a key in your terminal?, https://jvns.ca/blog/2022/07/20/pseudoterminals/
+Clever Phishing Attacks using Microsoft Forms Detected by Graphus | Graphus, https://www.graphus.ai/blog/clever-phishing-attacks-using-microsoft-forms-detected-by-graphus/
 Project Jupyter - Wikipedia, https://en.m.wikipedia.org/wiki/Project_Jupyter
 bash - In this \033[01;32m VT100 style ANSI Escape Sequences what is the 01; and the m? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/588600/in-this-0330132m-vt100-style-ansi-escape-sequences-what-is-the-01-and-the-m
 mattiase/wraptest: Test of DEC VT terminal line-wrapping semantics, https://github.com/mattiase/wraptest/tree/master
-What happens when you press a key in your terminal?, https://jvns.ca/blog/2022/07/20/pseudoterminals/
-Clever Phishing Attacks using Microsoft Forms Detected by Graphus | Graphus, https://www.graphus.ai/blog/clever-phishing-attacks-using-microsoft-forms-detected-by-graphus/
 SCAM OF THE WEEK: The Microsoft Forms Fakeout, https://kcpolice.org/crime/prevention-and-safety-tips/cyber-crime-prevention/scam-of-the-week-the-microsoft-forms-fakeout/
+Zephyr (operating system) - Wikipedia, https://en.m.wikipedia.org/wiki/Zephyr_(operating_system)
+Notebook interface - Wikipedia, https://en.m.wikipedia.org/wiki/Notebook_interface
+PCaaS - Wikipedia, https://en.m.wikipedia.org/wiki/PCaaS

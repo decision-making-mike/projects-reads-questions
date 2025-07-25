@@ -1,62 +1,62 @@
-https://sqlblog.org/2023/11/14/t-sql-tuesday-168-window-functions
-https://www.cockroachlabs.com/blog/sql-upsert/
-https://weblogs.sqlteam.com/jeffs/2007/08/23/composite_primary_keys/
-https://www.theregister.com/2024/05/31/fifty_years_of_sql/
-https://www.theregister.com/2024/05/10/sql_cocreator_nosql/
-https://tdan.com/is-sql-a-real-standard-anymore/4923
-https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres
-https://news.ycombinator.com/item?id=40809997
-https://en.m.wikipedia.org/wiki/Cursor_(databases)
-https://en.m.wikipedia.org/wiki/Hierarchical_and_recursive_queries_in_SQL
-https://en.m.wikipedia.org/wiki/Null_(SQL)
-https://en.m.wikipedia.org/wiki/SQL
-https://en.m.wikipedia.org/wiki/SQL-92
-https://en.m.wikipedia.org/wiki/Superkey
-https://en.m.wikipedia.org/wiki/Surrogate_key
-https://cs.stackexchange.com/questions/99350/did-date-and-darwens-third-manifesto-have-a-lasting-impact
-https://xkcd.com/327/
-https://dl.acm.org/doi/abs/10.1145/202660.202667
-https://deavid.wordpress.com/2018/08/31/things-i-miss-from-postgresql/
-https://stackoverflow.com/questions/7078837/why-doesnt-sql-support-null-instead-of-is-null
-https://www.reddit.com/r/learnprogramming/comments/mh8p19/which_database_should_i_use_to_store_about_200gb/
-https://stackoverflow.com/questions/1018822/inner-join-on-vs-where-clause
-https://stackoverflow.com/questions/15726535/which-datatype-should-be-used-for-currency
-https://dba.stackexchange.com/questions/161119/first-normal-form-definitive-definition
-https://vertabelo.com/blog/the-9-most-common-database-design-errors/
-https://se-radio.net/2009/06/episode-137-sql-with-jim-melton/
-https://www.youtube.com/watch?v=qI_g07C_Q5I
-https://en.m.wikipedia.org/wiki/Insert_(SQL)
-https://news.ycombinator.com/item?id=34181319
-https://softwareengineering.stackexchange.com/questions/439893/should-the-intentional-absence-of-a-value-rather-be-represented-by-value-convent
-https://dba.stackexchange.com/questions/5222/why-shouldnt-we-allow-nulls
-http://www.dbazine.com/ofinterest/oi-articles/pascal27/
-https://www.wired.com/2015/11/null/
-https://stackoverflow.com/questions/41180547/is-sql-unknown-identical-to-null
-https://news.ycombinator.com/item?id=36825668
-https://stackoverflow.com/questions/163434/are-nulls-in-a-relational-database-okay
-https://stackoverflow.com/questions/20481363/relational-algebra-expression-for-is-null
-https://l_avrot.gitlab.io/slides/null_20220525.html#/
-Hugh Darwen, "How To Handle Missing Information Without Using NULL", 2003, https://www.dcs.warwick.ac.uk/%7Ehugh/TTM/Missing-info-without-nulls.pdf
-https://www.red-gate.com/simple-talk/databases/sql-server/learn/sql-and-the-snare-of-three-valued-logic/
-https://en.m.wikipedia.org/wiki/Object%E2%80%93relational_impedance_mismatch
-https://www.researchgate.net/publication/297675657_Accounting_Database_Design_and_SQL_Implementation
-https://www.codeproject.com/Articles/5161230/Database-for-Financial-Accounting-Application-I-Ba
-https://stackoverflow.com/questions/596706/best-practices-for-storing-bank-information-in-a-database
-https://stackoverflow.com/questions/3957491/whats-the-best-db-to-store-banking-transactions
-https://dba.stackexchange.com/questions/294456/should-stored-financial-transactions-include-some-data-redundancy
-https://en.m.wikipedia.org/wiki/Integrated_Data_Store
-https://en.m.wikipedia.org/wiki/Data_model
-https://www.bkent.net/Doc/darxrp.htm
-https://stackoverflow.com/questions/40623169/normalization-in-database-management-system/40640962#40640962
-https://wiki.c2.com/?BusinessSystemTwelve
-https://wiki.c2.com/?TutorialDee
-https://wiki.c2.com/?TheThirdManifesto
-https://datatechnologytoday.wordpress.com/2017/07/18/what-the-null-handling-missing-information-in-database-systems/
-https://www.timescale.com/blog/13-tips-to-improve-postgresql-insert-performance
-https://stackoverflow.com/questions/57171841/is-there-any-functional-difference-between-array-upper-and-array-length
-https://www.timescale.com/blog/boosting-postgres-insert-performance
-https://stackoverflow.com/questions/8295131/best-practices-for-sql-varchar-column-length
-https://dba.stackexchange.com/questions/20974/should-i-add-an-arbitrary-length-limit-to-varchar-columns
-https://dba.stackexchange.com/questions/197047/how-to-profile-postgresql-instance
-https://www.timescale.com/learn/testing-postgres-ingest-insert-vs-batch-insert-vs-copy
-https://dzone.com/articles/using-a-variable-length-datatype-without-explicit
+Insert (SQL) - Wikipedia, https://en.m.wikipedia.org/wiki/Insert_(SQL)
+Testing Postgres Ingest: INSERT vs. Batch INSERT vs. COPY | Timescale, https://www.timescale.com/learn/testing-postgres-ingest-insert-vs-batch-insert-vs-copy
+Boosting Postgres INSERT Performance by 50% With UNNEST | Timescale, https://www.timescale.com/blog/boosting-postgres-insert-performance
+Introduction to NoSQL • Martin Fowler • GOTO 2012 - YouTube, https://www.youtube.com/watch?v=qI_g07C_Q5I
+SE Radio 137: SQL with Jim Melton – Software Engineering Radio, https://se-radio.net/2009/06/episode-137-sql-with-jim-melton/
+Database for Financial Accounting Application I: Basic Requirements- CodeProject, https://www.codeproject.com/Articles/5161230/Database-for-Financial-Accounting-Application-I-Ba
+Integrated Data Store - Wikipedia, https://en.m.wikipedia.org/wiki/Integrated_Data_Store
+What the Null? Handling Missing Information in Database Systems | Data and Technology Today, https://datatechnologytoday.wordpress.com/2017/07/18/what-the-null-handling-missing-information-in-database-systems/
+(PDF) Accounting Database Design and SQL Implementation, https://www.researchgate.net/publication/297675657_Accounting_Database_Design_and_SQL_Implementation
+Is SQL a Real Standard Anymore? – TDAN.com, https://tdan.com/is-sql-a-real-standard-anymore/4923
+SQL-92 - Wikipedia, https://en.m.wikipedia.org/wiki/SQL-92
+database design - Should stored financial transactions include some data redundancy? - Database Administrators Stack Exchange, https://dba.stackexchange.com/questions/294456/should-stored-financial-transactions-include-some-data-redundancy
+database - What's the best DB to store banking transactions? - Stack Overflow, https://stackoverflow.com/questions/3957491/whats-the-best-db-to-store-banking-transactions
+SQL and the Snare of Three-Valued Logic - Simple Talk, https://www.red-gate.com/simple-talk/databases/sql-server/learn/sql-and-the-snare-of-three-valued-logic/
+Superkey - Wikipedia, https://en.m.wikipedia.org/wiki/Superkey
+php - Best practices for storing bank information in a database - Stack Overflow, https://stackoverflow.com/questions/596706/best-practices-for-storing-bank-information-in-a-database
+rdbms - Normalization in database management system - Stack Overflow, https://stackoverflow.com/questions/40623169/normalization-in-database-management-system/40640962#40640962
+Business System Twelve, https://wiki.c2.com/?BusinessSystemTwelve
+sql - INNER JOIN ON vs WHERE clause - Stack Overflow, https://stackoverflow.com/questions/1018822/inner-join-on-vs-where-clause
+mysql - Best practices for SQL varchar column length - Stack Overflow, https://stackoverflow.com/questions/8295131/best-practices-for-sql-varchar-column-length
+Surrogate key - Wikipedia, https://en.m.wikipedia.org/wiki/Surrogate_key
+profiler - How to profile Postgresql instance? - Database Administrators Stack Exchange, https://dba.stackexchange.com/questions/197047/how-to-profile-postgresql-instance
+PRQL: a simple, powerful, pipelined SQL replacement | Hacker News, https://news.ycombinator.com/item?id=34181319
+Is SQL unknown identical to NULL? - Stack Overflow, https://stackoverflow.com/questions/41180547/is-sql-unknown-identical-to-null
+Null (SQL) - Wikipedia, https://en.m.wikipedia.org/wiki/Null_(SQL)
+Hello, I'm Mr. Null. My Name Makes Me Invisible to Computers | WIRED, https://www.wired.com/2015/11/null/
+The third manifesto | ACM SIGMOD Record, https://dl.acm.org/doi/abs/10.1145/202660.202667
+At 50 Years Old, Is SQL Becoming a Niche Skill? | Hacker News, https://news.ycombinator.com/item?id=40809997
+Codd almighty! Has it been 50 years of SQL already? • The Register, https://www.theregister.com/2024/05/31/fifty_years_of_sql/
+SQL - Wikipedia, https://en.m.wikipedia.org/wiki/SQL
+Object–relational impedance mismatch - Wikipedia, https://en.m.wikipedia.org/wiki/Object%E2%80%93relational_impedance_mismatch
+database design - Why shouldn't we allow NULLs? - Database Administrators Stack Exchange, https://dba.stackexchange.com/questions/5222/why-shouldnt-we-allow-nulls
+The 9 Most Common Database Design Errors | Vertabelo Database Modeler, https://vertabelo.com/blog/the-9-most-common-database-design-errors/
+DBAzine.com: Nulls Nullified, http://www.dbazine.com/ofinterest/oi-articles/pascal27/
+Reddit - Dive into anything, https://www.reddit.com/r/learnprogramming/comments/mh8p19/which_database_should_i_use_to_store_about_200gb/
+Things I miss from PostgreSQL – DeavidSedice's blog, https://deavid.wordpress.com/2018/08/31/things-i-miss-from-postgresql/
+Upsert in SQL: What is an upsert, and when should you use one?, https://www.cockroachlabs.com/blog/sql-upsert/
+Why doesn't SQL support "= null" instead of "is null"? - Stack Overflow, https://stackoverflow.com/questions/7078837/why-doesnt-sql-support-null-instead-of-is-null
+Using a Variable-Length Datatype Without Explicit Length: The Whys and Wherefores (BP007/8), https://dzone.com/articles/using-a-variable-length-datatype-without-explicit
+Data model - Wikipedia, https://en.m.wikipedia.org/wiki/Data_model
+database design - First Normal Form: Definitive Definition - Database Administrators Stack Exchange, https://dba.stackexchange.com/questions/161119/first-normal-form-definitive-definition
+postgresql - Should I add an arbitrary length limit to VARCHAR columns? - Database Administrators Stack Exchange, https://dba.stackexchange.com/questions/20974/should-i-add-an-arbitrary-length-limit-to-varchar-columns
+Meet NULL the UNKNOWN, https://l_avrot.gitlab.io/slides/null_20220525.html#/
+relational algebra expression for "is null" - Stack Overflow, https://stackoverflow.com/questions/20481363/relational-algebra-expression-for-is-null
+Missing-info-without-nulls.pdf, https://www.dcs.warwick.ac.uk/%7Ehugh/TTM/Missing-info-without-nulls.pdf
+sql - Which datatype should be used for currency? - Stack Overflow, https://stackoverflow.com/questions/15726535/which-datatype-should-be-used-for-currency
+T-SQL Tuesday #168: Window functions – SQLBlog.org, https://sqlblog.org/2023/11/14/t-sql-tuesday-168-window-functions
+Nulls Nullified (2005) | Hacker News, https://news.ycombinator.com/item?id=36825668
+Cursor (databases) - Wikipedia, https://en.m.wikipedia.org/wiki/Cursor_(databases)
+13 Tips to Improve PostgreSQL Database Insert Performance | Timescale, https://www.timescale.com/blog/13-tips-to-improve-postgresql-insert-performance
+arrays - Is there any functional difference between array_upper and array_length? - Stack Overflow, https://stackoverflow.com/questions/57171841/is-there-any-functional-difference-between-array-upper-and-array-length
+Hierarchical and recursive queries in SQL - Wikipedia, https://en.m.wikipedia.org/wiki/Hierarchical_and_recursive_queries_in_SQL
+The Third Manifesto, https://wiki.c2.com/?TheThirdManifesto
+xkcd: Exploits of a Mom, https://xkcd.com/327/
+Composite Primary Keys | Jeff Smith Blog, https://weblogs.sqlteam.com/jeffs/2007/08/23/composite_primary_keys/
+database design - Should the intentional absence of a value rather be represented by value-convention or through explicit flag? - Software Engineering Stack Exchange, https://softwareengineering.stackexchange.com/questions/439893/should-the-intentional-absence-of-a-value-rather-be-represented-by-value-convent
+database theory - Did Date and Darwen's "Third Manifesto" have a lasting impact? - Computer Science Stack Exchange, https://cs.stackexchange.com/questions/99350/did-date-and-darwens-third-manifesto-have-a-lasting-impact
+Bye bye Mongo, Hello Postgres | Digital blog | Info | The Guardian, https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres
+oop - Are nulls in a relational database okay? - Stack Overflow, https://stackoverflow.com/questions/163434/are-nulls-in-a-relational-database-okay
+Data and Reality [Excerpts], https://www.bkent.net/Doc/darxrp.htm
+Tutorial Dee, https://wiki.c2.com/?TutorialDee
+SQL co-creator embraces NoSQL • The Register, https://www.theregister.com/2024/05/10/sql_cocreator_nosql/
