@@ -9,3 +9,4 @@ PCaaS - Wikipedia, https://en.m.wikipedia.org/wiki/PCaaS
 Elapsed real time - Wikipedia, https://en.m.wikipedia.org/wiki/Elapsed_real_time
 You should be reading academic computer science papers - Stack Overflow, https://stackoverflow.blog/2022/12/30/you-should-be-reading-academic-computer-science-papers/
 Workato - Wikipedia, https://en.m.wikipedia.org/wiki/Workato
+New Debian Project Leader Talks Open Source Careers, PPAs, and More - Linux.com, https://www.linux.com/news/new-debian-project-leader-talks-open-source-careers-ppas-and-more/

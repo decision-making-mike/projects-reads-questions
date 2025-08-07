@@ -8,3 +8,7 @@ Problem XOR - strona główna, https://home.agh.edu.pl/~vlsi/AI/xor_t/glowna.htm
 C# or Java? TypeScript or JavaScript? Machine learning based classification of programming languages - The GitHub Blog, https://web.archive.org/web/20250519171033/https://github.blog/ai-and-ml/machine-learning/c-or-java-typescript-or-javascript-machine-learning-based-classification-of-programming-languages/
 deep learning - What is Coarse-to-Fine in the context of neural networks? - Data Science Stack Exchange, https://datascience.stackexchange.com/questions/47921/what-is-coarse-to-fine-in-the-context-of-neural-networks
 Fast development of AI applications in Zephyr with Linkable Loadable Extensions – Zephyr Project, https://zephyrproject.org/fast-development-of-ai-applications-in-zephyr-with-linkable-loadable-extensions/
+deeplearningbook.org/contents/intro.html, https://www.deeplearningbook.org/contents/intro.html
+deeplearningbook.org/contents/linear_algebra.html, https://www.deeplearningbook.org/contents/linear_algebra.html
+deeplearningbook.org/contents/prob.html, https://www.deeplearningbook.org/contents/prob.html
+deeplearningbook.org/contents/numerical.html, https://www.deeplearningbook.org/contents/numerical.html

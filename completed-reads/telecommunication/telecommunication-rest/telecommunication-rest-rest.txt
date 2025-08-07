@@ -1,2 +1,6 @@
 Scripting/Programming languages that are useful to learn? : r/networking, https://www.reddit.com/r/networking/comments/wdknu8/scriptingprogramming_languages_that_are_useful_to/
 McDonald’s AI hiring tool’s password ‘123456’ exposed data of 64M applicants | CSO Online, https://www.csoonline.com/article/4020919/mcdonalds-ai-hiring-tools-password-123456-exposes-data-of-64m-applicants.html
+RANCID (software) - Wikipedia, https://en.m.wikipedia.org/wiki/RANCID_(software)
+Out-of-order delivery - Wikipedia, https://en.m.wikipedia.org/wiki/Out-of-order_delivery
+Unicast - Wikipedia, https://en.m.wikipedia.org/wiki/Unicast
+Open Data-Link Interface - Wikipedia, https://en.m.wikipedia.org/wiki/Open_Data-Link_Interface
