@@ -1,0 +1,5 @@
+Why GitHub is not your CV – The If Works, https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/
+What does a full end-to-end web development project look like in 2024? : r/webdev, https://www.reddit.com/r/webdev/comments/19avheb/what_does_a_full_endtoend_web_development_project/?sort=old
+A little knowledge is dangerous » Linux Magazine, https://www.linux-magazine.com/Online/Blogs/Paw-Prints-Writings-of-the-maddog/A-little-knowledge-is-dangerous
+Dark Matter Developers: The Unseen 99% - Scott Hanselman's Blog, https://www.hanselman.com/blog/dark-matter-developers-the-unseen-99
+Rust for Linux Maintainer Steps Down in Frustration With 'Nontechnical Nonsense' - Slashdot, https://m.slashdot.org/story/432648

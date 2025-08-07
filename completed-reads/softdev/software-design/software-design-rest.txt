@@ -1,0 +1,2 @@
+Zasada najmniejszego zaskoczenia – Adam, http://adam.wroclaw.pl/2015/05/zasada-najmniejszego-zaskoczenia/
+language agnostic - What is the purpose of null? - Stack Overflow, https://stackoverflow.com/questions/584507/what-is-the-purpose-of-null

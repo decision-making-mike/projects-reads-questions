@@ -1,0 +1,1 @@
+Czcionki dla programistów: aby kod był czytelniejszy // rubedo -- alchemy_of :ruby, :rails, https://blog.razorjack.net/2007/04/28/czcionki-dla-programistow-aby-kod-byl-czytelniejszy/

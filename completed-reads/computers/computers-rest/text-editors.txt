@@ -1,0 +1,22 @@
+Vim show newline at the end of file - Stack Overflow, https://stackoverflow.com/questions/15639511/vim-show-newline-at-the-end-of-file
+vimrc - What is the purpose of swap files? - Vi and Vim Stack Exchange, https://vi.stackexchange.com/questions/177/what-is-the-purpose-of-swap-files
+Why is vim not using UTF-8 as character encoding? : r/vim, https://www.reddit.com/r/vim/comments/fvm0v0/why_is_vim_not_using_utf8_as_character_encoding/?sort=old
+Code Yarns – How to grep in Vim, https://codeyarns.com/tech/2017-09-14-how-to-grep-in-vim.html#gsc.tab=0
+Home | Vim Cheat Sheet, https://vim.rtorr.com/
+Special characters in Vim | Arabesque, https://blog.sanctum.geek.nz/special-characters-in-vim/
+Specify UTF-8 encoding in Vimrc - Vi and Vim Stack Exchange, https://vi.stackexchange.com/questions/17323/specify-utf-8-encoding-in-vimrc
+vim: difference between :n and :bn - Stack Overflow, https://stackoverflow.com/questions/39264364/vim-difference-between-n-and-bn
+vimfromscratch.com/articles/spell-and-grammar-vim, https://www.vimfromscratch.com/articles/spell-and-grammar-vim
+Vim registers: The basics and beyond, https://www.brianstorti.com/vim-registers/
+syntax highlighting - How to make Vim highlight the content of a Markdown code span or code block? - Vi and Vim Stack Exchange, https://vi.stackexchange.com/questions/46085/how-to-make-vim-highlight-the-content-of-a-markdown-code-span-or-code-block
+newline - Why do I need vim in binary mode for 'noeol' to work? - Stack Overflow, https://stackoverflow.com/questions/16222530/why-do-i-need-vim-in-binary-mode-for-noeol-to-work
+VIM: "sudo vim bad_idea"? - Super User, https://superuser.com/questions/23428/vim-sudo-vim-bad-idea
+Autocommands / Learn Vimscript the Hard Way, https://learnvimscriptthehardway.stevelosh.com/chapters/12.html
+Happy birthday!, https://groups.google.com/g/vim_announce/c/bQtQSHTK1sg?pli=1
+On column positions in vim, https://ro-che.info/articles/2013-12-14-vim-positions
+Using buffers, windows, and tabs efficiently in Vim - DEV Community, https://dev.to/iggredible/using-buffers-windows-and-tabs-efficiently-in-vim-56jc
+Why, oh WHY, do those #?@! nutheads use vi?, http://www.viemu.com/a-why-vi-vim.html
+Vim (text editor) - Wikipedia, https://en.m.wikipedia.org/wiki/Vim_(text_editor)
+Vim command window | Arabesque, https://blog.sanctum.geek.nz/vim-command-window/
+vim - What are the typical use cases for vi? - Stack Overflow, https://stackoverflow.com/questions/1310661/what-are-the-typical-use-cases-for-vi
+Vim 6.4 Released - Slashdot, https://slashdot.org/comments.pl?sid=165492&cid=13808398

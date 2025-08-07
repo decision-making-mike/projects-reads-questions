@@ -1,0 +1,12 @@
+Zephyr (operating system) - Wikipedia, https://en.m.wikipedia.org/wiki/Zephyr_(operating_system)
+"Kernel panic - not syncing: Attempted to kill init!" on shutdown / Laptop Issues / Arch Linux Forums, https://bbs.archlinux.org/viewtopic.php?id=156882
+18.04: kernel panic - not syncing: attempting to kill init! exit code-0x00000100 - Ask Ubuntu, https://askubuntu.com/questions/1208053/18-04-kernel-panic-not-syncing-attempting-to-kill-init-exit-code-0x00000100
+Improving performance/Boot process - ArchWiki, https://wiki.archlinux.org/title/Improving_performance/Boot_process
+Inside the Linux boot process – IBM Developer, https://web.archive.org/web/20210415174843/https://developer.ibm.com/articles/l-linuxboot/
+Is there a way to improve performance of linux pipes? - Stack Overflow, https://stackoverflow.com/questions/12626227/is-there-a-way-to-improve-performance-of-linux-pipes
+Kernel panic - not syncing: Attempted to kill init! exitcode=0x00007f00 - Linux Mint Forums, https://forums.linuxmint.com/viewtopic.php?t=336935
+Kernel panic - Wikipedia, https://en.m.wikipedia.org/wiki/Kernel_panic
+Named pipe - Wikipedia, https://en.m.wikipedia.org/wiki/Named_pipe
+Poweroff causing: Kernel panic – not syncing: Attempted to kill init! · Issue #4171 · raspberrypi/linux, https://github.com/raspberrypi/linux/issues/4171
+systemctl poweroff: kernel panic · Issue #186 · clearlinux/distribution, https://github.com/clearlinux/distribution/issues/186
+ubuntu - Error message here end Kernel Panic - not syncing: attempted to kill init! exitcode=0x00007f00 - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/691923/error-message-here-end-kernel-panic-not-syncing-attempted-to-kill-init-exitc

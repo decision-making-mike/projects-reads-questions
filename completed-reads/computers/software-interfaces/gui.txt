@@ -1,0 +1,2 @@
+Is openbox the future? - News & Development / Development & Suggestions - Mabox Linux Forum, https://forum.maboxlinux.org/t/is-openbox-the-future/1476/17
+xorg - How do I run a graphical application in a virtual console besides <Alt+F7>? - Ask Ubuntu, https://askubuntu.com/questions/57533/how-do-i-run-a-graphical-application-in-a-virtual-console-besides-altf7

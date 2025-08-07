@@ -11,3 +11,4 @@ Leveraging System Fonts on the Web - Jim Nielsen’s Blog, https://blog.jim-niel
 Czcionka, font czy krój? Wyjaśniamy tajniki typografii!, https://polinal.pl/blog/czcionka-font-co-to-jest-typografia/
 EB Garamond - Wikipedia, https://en.m.wikipedia.org/wiki/EB_Garamond
 germany - Why did German typewriters not use Fraktur? - History Stack Exchange, https://history.stackexchange.com/questions/76952/why-did-german-typewriters-not-use-fraktur
+Fonts on Linux, Chapter One: Changing Default and Fallback Fonts with Fontconfig - dt.iki.fi, https://dt.iki.fi/fontconfig-1
