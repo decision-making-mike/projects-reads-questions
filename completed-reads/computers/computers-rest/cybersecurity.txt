@@ -1,7 +1,0 @@
-Herbapol Lublin ofiarą cyberprzestępców. Prokuratura bada sprawę, https://businessinsider.com.pl/biznes/herbapol-lublin-ofiara-cyberprzestepcow-prokuratura-bada-sprawe/87e5chv
-Essays: A Plea for Simplicity - Schneier on Security, https://www.schneier.com/essays/archives/1999/11/a_plea_for_simplicit.html
-Keyring (cryptography) - Wikipedia, https://en.m.wikipedia.org/wiki/Keyring_(cryptography)
-Projects/GnomeKeyring/Goals – GNOME Wiki Archive, https://wiki.gnome.org/Projects(2f)GnomeKeyring(2f)Goals.html
-What is a keyring?, https://help.gnome.org/users/seahorse/stable/keyring.html.en
-What does a Keyring do? - Ask Ubuntu, https://askubuntu.com/questions/32164/what-does-a-keyring-do
-GNOME Keyring - Wikipedia, https://en.m.wikipedia.org/wiki/GNOME_Keyring

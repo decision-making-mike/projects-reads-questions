@@ -1,0 +1,25 @@
+mojeID: Uniwersalna identyfikacja - Pentacomp, https://www.pentacomp.pl/pl/analiza-przypadku/mojeid-uniwersalna-identyfikacja/
+Projects/GnomeKeyring/Architecture – GNOME Wiki Archive, https://wiki.gnome.org/Projects(2f)GnomeKeyring(2f)Architecture.html
+Keyring (cryptography) - Wikipedia, https://en.m.wikipedia.org/wiki/Keyring_(cryptography)
+What is a keyring?, https://help.gnome.org/users/seahorse/stable/keyring.html.en
+Chrome asks for password to unlock keyring on startup - Ask Ubuntu, https://askubuntu.com/questions/31786/chrome-asks-for-password-to-unlock-keyring-on-startup
+Seahorse (software) - Wikipedia, https://en.m.wikipedia.org/wiki/Seahorse_(software)
+Projects/GnomeKeyring/Goals – GNOME Wiki Archive, https://wiki.gnome.org/Projects(2f)GnomeKeyring(2f)Goals.html
+Projects/GnomeKeyring/StoringSecrets – GNOME Wiki Archive, https://wiki.gnome.org/Projects(2f)GnomeKeyring(2f)StoringSecrets.html
+What does a Keyring do? - Ask Ubuntu, https://askubuntu.com/questions/32164/what-does-a-keyring-do
+Projects/GnomeKeyring/Memory – GNOME Wiki Archive, https://wiki.gnome.org/Projects(2f)GnomeKeyring(2f)Memory.html
+Projects/GnomeKeyring/Pam – GNOME Wiki Archive, https://wiki.gnome.org/Projects(2f)GnomeKeyring(2f)Pam.html
+seahorse - How can I stop being prompted to unlock the 'default' keyring on boot? - Ask Ubuntu, https://askubuntu.com/questions/867/how-can-i-stop-being-prompted-to-unlock-the-default-keyring-on-boot
+Check if Gnome keyring is unlocked? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/453459/check-if-gnome-keyring-is-unlocked
+How to disable the "unlock your keyring" popup? - Ask Ubuntu, https://askubuntu.com/questions/495957/how-to-disable-the-unlock-your-keyring-popup
+login keyring not getting unlocked - Linux Mint Forums, https://forums.linuxmint.com/viewtopic.php?t=434552
+Projects/GnomeKeyring/SecurityPhilosophy – GNOME Wiki Archive, https://wiki.gnome.org/Projects(2f)GnomeKeyring(2f)SecurityPhilosophy.html
+password - Why am I always asked to create a new keyring? - Ask Ubuntu, https://askubuntu.com/questions/1446379/why-am-i-always-asked-to-create-a-new-keyring
+Bug #562423 “gnome-keyring-manager interferes with the VNC serve...” : Bugs : vino package : Ubuntu, https://bugs.launchpad.net/ubuntu/+source/vino/+bug/562423
+GNOME/Keyring - ArchWiki, https://wiki.archlinux.org/title/GNOME/Keyring
+GNOME Keyring - Wikipedia, https://en.m.wikipedia.org/wiki/GNOME_Keyring
+[SOLVED] Keyring is no longer getting unlocked at login. - Linux Mint Forums, https://forums.linuxmint.com/viewtopic.php?t=425086
+Gnome-keyring – MX Linux, https://mxlinux.org/uncategorized/gnome-keyring/
+linux - Visual Studio Code asking to authenticate 'Default keyring' everytime I start - Stack Overflow, https://stackoverflow.com/questions/63107939/visual-studio-code-asking-to-authenticate-default-keyring-everytime-i-start
+GNOME Keyring - openSUSE Wiki, https://en.opensuse.org/GNOME_Keyring
+[Solved] GNOME Keyring not unlocked by LightDM / Newbie Corner / Arch Linux Forums, https://bbs.archlinux.org/viewtopic.php?id=233595

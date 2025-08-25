@@ -13,3 +13,4 @@ EB Garamond - Wikipedia, https://en.m.wikipedia.org/wiki/EB_Garamond
 germany - Why did German typewriters not use Fraktur? - History Stack Exchange, https://history.stackexchange.com/questions/76952/why-did-german-typewriters-not-use-fraktur
 Fonts on Linux, Chapter One: Changing Default and Fallback Fonts with Fontconfig - dt.iki.fi, https://dt.iki.fi/fontconfig-1
 Can evince pdf reader be setup to do larger zoom than 400%? - Ask Ubuntu, https://askubuntu.com/questions/1154608/can-evince-pdf-reader-be-setup-to-do-larger-zoom-than-400
+Introducing Spotify Mix, Our New and Exclusive Font — Spotify, https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/

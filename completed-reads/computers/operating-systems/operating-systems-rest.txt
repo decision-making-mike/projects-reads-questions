@@ -10,3 +10,4 @@ Named pipe - Wikipedia, https://en.m.wikipedia.org/wiki/Named_pipe
 Poweroff causing: Kernel panic – not syncing: Attempted to kill init! · Issue #4171 · raspberrypi/linux, https://github.com/raspberrypi/linux/issues/4171
 systemctl poweroff: kernel panic · Issue #186 · clearlinux/distribution, https://github.com/clearlinux/distribution/issues/186
 ubuntu - Error message here end Kernel Panic - not syncing: attempted to kill init! exitcode=0x00007f00 - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/691923/error-message-here-end-kernel-panic-not-syncing-attempted-to-kill-init-exitc
+Open Browser Bookmarks from the Terminal | Mark Skelton, https://mskelton.dev/bytes/open-browser-bookmarks-from-the-terminal

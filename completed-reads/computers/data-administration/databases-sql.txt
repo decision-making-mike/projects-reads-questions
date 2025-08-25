@@ -60,3 +60,4 @@ oop - Are nulls in a relational database okay? - Stack Overflow, https://stackov
 Data and Reality [Excerpts], https://www.bkent.net/Doc/darxrp.htm
 Tutorial Dee, https://wiki.c2.com/?TutorialDee
 SQL co-creator embraces NoSQL • The Register, https://www.theregister.com/2024/05/10/sql_cocreator_nosql/
+Nowoczesne czy klasyczne hurtownie danych? - YouTube, https://m.youtube.com/watch?v=P5yzgqzdkP8

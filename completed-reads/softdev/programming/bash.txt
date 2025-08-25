@@ -1,1 +1,0 @@
-Julien Palard - [Bashism] How to generate random number without $RANDOM ?, https://mdk.fr/blog/bashism-how-to-generate-random-number-without-random.html

@@ -1,3 +1,0 @@
-jq Primer: Munging JSON Data - Andrew Gibiansky, https://andrew.gibiansky.com/blog/command-line/jq-primer/
-Tutorial, https://jqlang.org/tutorial/
-jq (programming language) - Wikipedia, https://en.m.wikipedia.org/wiki/Jq_(programming_language)

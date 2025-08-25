@@ -10,3 +10,22 @@ Elapsed real time - Wikipedia, https://en.m.wikipedia.org/wiki/Elapsed_real_time
 You should be reading academic computer science papers - Stack Overflow, https://stackoverflow.blog/2022/12/30/you-should-be-reading-academic-computer-science-papers/
 Workato - Wikipedia, https://en.m.wikipedia.org/wiki/Workato
 New Debian Project Leader Talks Open Source Careers, PPAs, and More - Linux.com, https://www.linux.com/news/new-debian-project-leader-talks-open-source-careers-ppas-and-more/
+Blob URI scheme - Wikipedia, https://en.m.wikipedia.org/wiki/Blob_URI_scheme
+xorg - How do I run a graphical application in a virtual console besides <Alt+F7>? - Ask Ubuntu, https://askubuntu.com/questions/57533/how-do-i-run-a-graphical-application-in-a-virtual-console-besides-altf7
+Certificate and Key Widgets, http://stef.thewalter.net/certificate-and-key-widgets.html
+Is openbox the future? - News & Development / Development & Suggestions - Mabox Linux Forum, https://forum.maboxlinux.org/t/is-openbox-the-future/1476/17
+X Input Method - Wikipedia, https://en.m.wikipedia.org/wiki/X_Input_Method
+escape characters - Why does Ctrl-D (EOF) exit the shell? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/110240/why-does-ctrl-d-eof-exit-the-shell
+shell - Why does the terminal echo keystrokes when commands are running? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/210628/why-does-the-terminal-echo-keystrokes-when-commands-are-running
+bash - Is it safe to type another command into STDIN while the previous command is writing to STDOUT? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/178989/is-it-safe-to-type-another-command-into-stdin-while-the-previous-command-is-writ
+Things You Didn't Know About GNU Readline, https://twobithistory.org/2019/08/22/readline.html
+bash - How to handle backspace while reading? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/151068/how-to-handle-backspace-while-reading
+Entering text in the terminal is complicated, https://jvns.ca/blog/2024/07/08/readline/
+linux - Shell prompt colored outside of tmux, but not in tmux; how can I get colored prompt in tmux? - Super User, https://superuser.com/questions/1838764/shell-prompt-colored-outside-of-tmux-but-not-in-tmux-how-can-i-get-colored-pro
+terminal - What is the point of Ctrl-S? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/137842/what-is-the-point-of-ctrl-s
+bash - Get cursor location in tty without reading from stdin (need help with redirections) - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/714209/get-cursor-location-in-tty-without-reading-from-stdin-need-help-with-redirectio
+user interface - Dialog from bash script - Stack Overflow, https://stackoverflow.com/questions/8354482/dialog-from-bash-script
+linux - What is the difference between screen-256 color and xterm-256color - Super User, https://superuser.com/questions/424086/what-is-the-difference-between-screen-256-color-and-xterm-256color
+The TTY demystified, https://www.linusakesson.net/programming/tty/
+Virtual console - Wikipedia, https://en.m.wikipedia.org/wiki/Virtual_console
+Windows Managers vs Login Managers Vs Display Managers Vs Desktop Environment - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/20385/windows-managers-vs-login-managers-vs-display-managers-vs-desktop-environment

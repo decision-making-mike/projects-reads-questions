@@ -1,3 +1,0 @@
-Pint-Size PPA Primer | Linux Journal, https://www.linuxjournal.com/content/pint-size-ppa-primer
-Launchpad Blog, https://blog.launchpad.net/ppa/personal-package-archives-for-everyone
-Ubuntu - Install Latest Libreoffice From PPA | Programster's Blog, https://blog.programster.org/ubuntu-18-04-install-libreoffice-from-ppa
