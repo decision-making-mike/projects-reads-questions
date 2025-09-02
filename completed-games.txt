@@ -1,1 +1,0 @@
-openSUSE Software, https://software.opensuse.org/package/trigger-rally

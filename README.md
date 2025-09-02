@@ -1,4 +1,4 @@
-# Projects, reads and others
+# Projects, reads and questions
 
 ## Reads
 
