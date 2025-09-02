@@ -1,0 +1,11 @@
+configuration - Why does old postgresql.conf affect new PostgreSQL version? - Database Administrators Stack Exchange, https://dba.stackexchange.com/questions/343718/why-does-old-postgresql-conf-affect-new-postgresql-version
+Is it possible to remove empty space that appears when using layers? - Help - Graphviz, https://forum.graphviz.org/t/is-it-possible-to-remove-empty-space-that-appears-when-using-layers/3080
+licensing - CC-BY-SA-3.0 and actions "prejudicial to the Original Author's honor or reputation" - Law Stack Exchange, https://law.stackexchange.com/questions/108421/cc-by-sa-3-0-and-actions-prejudicial-to-the-original-authors-honor-or-reputati
+Licensing of screenshots and gameplay videos of Luanti - Luanti Forums, https://forum.luanti.org/viewtopic.php?t=31586
+linux - In "read", why does the cursor does not move to the next input line when there is 1 character more than there are columns? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/798110/in-read-why-does-the-cursor-does-not-move-to-the-next-input-line-when-there-i
+Segmentation fault when using "layerselect" - Help - Graphviz, https://forum.graphviz.org/t/segmentation-fault-when-using-layerselect/3077
+shell - Why does /bin/echo cause SIGPIPE, while Bash's built-in echo does not? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/791914/why-does-bin-echo-cause-sigpipe-while-bashs-built-in-echo-does-not
+terminal - Why is the output of Device Status Report sent to the standard input instead of output? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/797991/why-is-the-output-of-device-status-report-sent-to-the-standard-input-instead-of
+Under what license may I use screenshots and videos of the gameplay of Minetest (Luanti)? - Open Source Stack Exchange, https://opensource.stackexchange.com/questions/15450/under-what-license-may-i-use-screenshots-and-videos-of-the-gameplay-of-minetest
+Visual viewport scale changes after reloading the page multiple times quickly [417621250] - Chromium, https://issues.chromium.org/issues/417621250
+word order - Why does "not" come after "it" in "he knows it not"? - English Language & Usage Stack Exchange, https://english.stackexchange.com/questions/627737/why-does-not-come-after-it-in-he-knows-it-not

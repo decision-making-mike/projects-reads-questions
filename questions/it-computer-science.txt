@@ -1,4 +1,0 @@
-https://unix.stackexchange.com/questions/791914/why-does-bin-echo-cause-sigpipe-while-bashs-built-in-echo-does-not
-https://issues.chromium.org/issues/417621250
-https://forum.graphviz.org/t/segmentation-fault-when-using-layerselect/3077
-https://forum.graphviz.org/t/is-it-possible-to-remove-empty-space-that-appears-when-using-layers/3080

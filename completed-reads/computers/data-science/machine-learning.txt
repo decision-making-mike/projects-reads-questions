@@ -12,3 +12,6 @@ deeplearningbook.org/contents/intro.html, https://www.deeplearningbook.org/conte
 deeplearningbook.org/contents/linear_algebra.html, https://www.deeplearningbook.org/contents/linear_algebra.html
 deeplearningbook.org/contents/prob.html, https://www.deeplearningbook.org/contents/prob.html
 deeplearningbook.org/contents/numerical.html, https://www.deeplearningbook.org/contents/numerical.html
+What is a Good Quantum Encoding? Part 1, https://www.math3ma.com/blog/what-is-a-good-quantum-encoding-part-1
+Jack Hidary’s vision on AI, Large Quantitative Models, and the road ahead - YouTube, https://www.youtube.com/watch?v=v-IHeCI6qrA
+Deep Learning: How Machines Learn Like Our Brain (Part 1/2) | by Mounica Kommajosyula | Aug, 2025 | Medium, https://medium.com/python-in-plain-english/deep-learning-how-machines-learn-like-our-brain-part-1-2-f365d7b4c7a0

@@ -1,0 +1,3 @@
+Deep Learning, https://www.deeplearningbook.org/
+PostgreSQL: Documentation: 17: PostgreSQL 17.2 Documentation, https://www.postgresql.org/docs/17/index.html
+Sieci komputerowe. Ujęcie całościowe. Wydanie VII James Kurose, Keith Ross. Książka, ebook - Księgarnia informatyczna Helion, https://helion.pl/ksiazki/sieci-komputerowe-ujecie-calosciowe-wydanie-vii-james-kurose-keith-ross,sie7vv.htm#format/d
