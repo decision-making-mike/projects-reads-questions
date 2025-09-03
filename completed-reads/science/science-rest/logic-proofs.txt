@@ -2,3 +2,6 @@ logic - Could Gödel's incompleteness theorems be false? - Mathematics Stack Exc
 The Road to Gödel's Incompleteness Theorems - Juliette Kennedy - YouTube, https://www.youtube.com/watch?v=22uZqPPwPNo
 logic - What is the prerequisite knowledge for learning Godel's incompleteness theorem - Mathematics Stack Exchange, https://math.stackexchange.com/questions/205518/what-is-the-prerequisite-knowledge-for-learning-godels-incompleteness-theorem
 Hilbert's paradox of the Grand Hotel - Wikipedia, https://en.m.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel
+set theory - Hilbert's Grand Hotel is always hosting the same infinite set of guests - Mathematics Stack Exchange, https://math.stackexchange.com/questions/4752338/hilberts-grand-hotel-is-always-hosting-the-same-infinite-set-of-guests
+set theory - Hilbert's Hotel - kick everyone out - Mathematics Stack Exchange, https://math.stackexchange.com/questions/4410240/hilberts-hotel-kick-everyone-out?rq=1
+elementary set theory - What is larger -- the set of all positive even numbers, or the set of all positive integers? - Mathematics Stack Exchange, https://math.stackexchange.com/questions/398/what-is-larger-the-set-of-all-positive-even-numbers-or-the-set-of-all-positi

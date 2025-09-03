@@ -9,3 +9,4 @@ terminal - Why is the output of Device Status Report sent to the standard input 
 Under what license may I use screenshots and videos of the gameplay of Minetest (Luanti)? - Open Source Stack Exchange, https://opensource.stackexchange.com/questions/15450/under-what-license-may-i-use-screenshots-and-videos-of-the-gameplay-of-minetest
 Visual viewport scale changes after reloading the page multiple times quickly [417621250] - Chromium, https://issues.chromium.org/issues/417621250
 word order - Why does "not" come after "it" in "he knows it not"? - English Language & Usage Stack Exchange, https://english.stackexchange.com/questions/627737/why-does-not-come-after-it-in-he-knows-it-not
+set theory - Is the cardinality of the set of odd numbers really the same as the cardinality of the set of natural numbers? - Mathematics Stack Exchange, https://math.stackexchange.com/questions/5094065/is-the-cardinality-of-the-set-of-odd-numbers-really-the-same-as-the-cardinality
