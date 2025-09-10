@@ -1,0 +1,5 @@
+Branch of math studying relations - Mathematics Stack Exchange, https://math.stackexchange.com/questions/100256/branch-of-math-studying-relations
+elementary set theory - Why do we have codomain? - Mathematics Stack Exchange, https://math.stackexchange.com/questions/1922674/why-do-we-have-codomain
+Bijection - Wikipedia, https://en.m.wikipedia.org/wiki/Bijection
+Surjective function - Wikipedia, https://en.m.wikipedia.org/wiki/Surjective_function
+Calculus I - Inverse Functions, https://tutorial.math.lamar.edu/classes/calci/inversefunctions.aspx
