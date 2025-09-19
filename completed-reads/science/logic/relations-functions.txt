@@ -3,3 +3,4 @@ elementary set theory - Why do we have codomain? - Mathematics Stack Exchange, h
 Bijection - Wikipedia, https://en.m.wikipedia.org/wiki/Bijection
 Surjective function - Wikipedia, https://en.m.wikipedia.org/wiki/Surjective_function
 Calculus I - Inverse Functions, https://tutorial.math.lamar.edu/classes/calci/inversefunctions.aspx
+Inverse function - Wikipedia, https://en.m.wikipedia.org/wiki/Inverse_function

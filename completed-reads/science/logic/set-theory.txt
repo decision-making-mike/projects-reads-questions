@@ -8,3 +8,13 @@ Galileo's paradox - Wikipedia, https://en.m.wikipedia.org/wiki/Galileo%27s_parad
 Peano axioms - Wikipedia, https://en.m.wikipedia.org/wiki/Peano_axioms
 set theory - Hilbert's Grand Hotel is always hosting the same infinite set of guests - Mathematics Stack Exchange, https://math.stackexchange.com/questions/4752338/hilberts-grand-hotel-is-always-hosting-the-same-infinite-set-of-guests
 set theory - Hilbert's Hotel - kick everyone out - Mathematics Stack Exchange, https://math.stackexchange.com/questions/4410240/hilberts-hotel-kick-everyone-out?rq=1
+Proof - There Are More Real Numbers Than Natural Numbers - YouTube, https://www.youtube.com/watch?v=mEEM_dLWY0g
+set theory - Is there a bijection between the reals and naturals? - Mathematics Stack Exchange, https://math.stackexchange.com/questions/2427404/is-there-a-bijection-between-the-reals-and-naturals
+Natural and Real sets of numbers, which one is bigger than another? - Mathematics Stack Exchange, https://math.stackexchange.com/questions/910194/natural-and-real-sets-of-numbers-which-one-is-bigger-than-another
+Cantor's diagonal argument - Wikipedia, https://en.m.wikipedia.org/wiki/Cantor's_diagonal_argument
+elementary set theory - How does Cantor's diagonal argument work? - Mathematics Stack Exchange, https://math.stackexchange.com/questions/39269/how-does-cantors-diagonal-argument-work
+discrete mathematics - Can somebody explain to me Cantor's diagonalization argument? - Mathematics Stack Exchange, https://math.stackexchange.com/questions/517151/can-somebody-explain-to-me-cantors-diagonalization-argument
+irrational numbers - How is the "diagonal proof" valid? - Mathematics Stack Exchange, https://math.stackexchange.com/questions/3763653/how-is-the-diagonal-proof-valid
+elementary set theory - How does Cantor's diagonal argument actually prove that the set of real numbers is larger than that of natural numbers? - Mathematics Stack Exchange, https://math.stackexchange.com/questions/2942066/how-does-cantors-diagonal-argument-actually-prove-that-the-set-of-real-numbers
+discrete mathematics - Can somebody explain why the interval $\left ( 0,1 \right )$ is not countable? - Mathematics Stack Exchange, https://math.stackexchange.com/questions/562296/can-somebody-explain-why-the-interval-left-0-1-right-is-not-countable
+elementary set theory - Understanding Cantor's diagonal argument - Mathematics Stack Exchange, https://math.stackexchange.com/questions/1541316/understanding-cantors-diagonal-argument

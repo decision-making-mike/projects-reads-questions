@@ -29,3 +29,7 @@ linux - What is the difference between screen-256 color and xterm-256color - Sup
 The TTY demystified, https://www.linusakesson.net/programming/tty/
 Virtual console - Wikipedia, https://en.m.wikipedia.org/wiki/Virtual_console
 Windows Managers vs Login Managers Vs Display Managers Vs Desktop Environment - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/20385/windows-managers-vs-login-managers-vs-display-managers-vs-desktop-environment
+VTTEST – Examples of VT100/non-VT100 wrapping, https://invisible-island.net/vttest/vttest-wrap.html
+terminal - Caret square bracket square bracket A ^[[A - What does it mean? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/222901/caret-square-bracket-square-bracket-a-a-what-does-it-mean
+command line - Why does ^C, ^V etc. appear in the terminal when I use the Ctrl+character keyboard shortcut? - Ask Ubuntu, https://askubuntu.com/questions/704600/why-does-c-v-etc-appear-in-the-terminal-when-i-use-the-ctrlcharacter-keyboa
+linux - Is there any reason why I get ^[[A when I press up arrow at the console login screen? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/103608/is-there-any-reason-why-i-get-a-when-i-press-up-arrow-at-the-console-login-sc

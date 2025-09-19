@@ -1,3 +1,5 @@
 The story of mathematical proof – with John Stillwell - YouTube, https://m.youtube.com/watch?v=S1AEWuCFq6A
 Przypuszczenie – Wikipedia, wolna encyklopedia, https://pl.m.wikipedia.org/wiki/Przypuszczenie
 quod esset demonstrandum - Language lab: English ⇔ German Forums - leo.org, https://dict.leo.org/forum/viewGeneraldiscussion.php?idForum=4&idThread=1186877&lp=ende&lang=en
+Why can mathematical induction only be used with natural numbers? - Mathematics Stack Exchange, https://math.stackexchange.com/questions/1377203/why-can-mathematical-induction-only-be-used-with-natural-numbers
+Mathematical induction - Wikipedia, https://en.m.wikipedia.org/wiki/Mathematical_induction

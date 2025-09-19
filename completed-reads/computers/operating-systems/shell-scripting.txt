@@ -18,3 +18,9 @@ shell - The difference between \e and ^[ - Unix & Linux Stack Exchange, https://
 shell script - How to compose bash functions using pipes? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/114121/how-to-compose-bash-functions-using-pipes
 shell script - Is piping, shifting, or parameter expansion more efficient? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/497985/is-piping-shifting-or-parameter-expansion-more-efficient
 Why you should use named pipes on Linux | Network World, https://www.networkworld.com/article/965112/why-use-named-pipes-on-linux.html
+Why do bash calculations return 1 if the result is zero - Stack Overflow, https://stackoverflow.com/questions/41186578/why-do-bash-calculations-return-1-if-the-result-is-zero
+Jane Street Blog - When Bash Scripts Bite, https://blog.janestreet.com/when-bash-scripts-bite/
+A sh, shebang, and pipefail fail » Rodaine, https://rodaine.com/til/2020/11/sh-shebang-pipefail/
+shell - Bash - Check if the standard input contains anything - Stack Overflow, https://stackoverflow.com/questions/77595203/bash-check-if-the-standard-input-contains-anything/77595495#77595495
+stdin - Bash - Check if the standard input contains anything - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/762992/bash-check-if-the-standard-input-contains-anything
+Does bash create a child process to run every command - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/676209/does-bash-create-a-child-process-to-run-every-command

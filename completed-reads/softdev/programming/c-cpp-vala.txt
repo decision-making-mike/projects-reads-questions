@@ -1,0 +1,1 @@
+C multi-character character constants – Defective Semantics, https://scarff.id.au/blog/2009/c-multi-character-character-constants/
