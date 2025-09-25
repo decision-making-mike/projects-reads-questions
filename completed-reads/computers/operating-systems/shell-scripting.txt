@@ -24,3 +24,5 @@ A sh, shebang, and pipefail fail » Rodaine, https://rodaine.com/til/2020/11/sh-
 shell - Bash - Check if the standard input contains anything - Stack Overflow, https://stackoverflow.com/questions/77595203/bash-check-if-the-standard-input-contains-anything/77595495#77595495
 stdin - Bash - Check if the standard input contains anything - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/762992/bash-check-if-the-standard-input-contains-anything
 Does bash create a child process to run every command - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/676209/does-bash-create-a-child-process-to-run-every-command
+bash - Is it safe to type another command into STDIN while the previous command is writing to STDOUT? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/178989/is-it-safe-to-type-another-command-into-stdin-while-the-previous-command-is-writ
+How to measure GUI app startup with time(1), https://www.linuxquestions.org/questions/linux-general-1/how-to-measure-gui-app-startup-with-time-1-a-795028/

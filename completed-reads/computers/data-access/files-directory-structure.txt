@@ -2,3 +2,6 @@ Image file type and format guide - Media technologies on the web | MDN, https://
 ios - Why do iPhone photos have Microsoft in Exif data? - Ask Different, https://apple.stackexchange.com/questions/187616/why-do-iphone-photos-have-microsoft-in-exif-data
 JPEG History: Compressing It Down, Keeping The Essence, https://tedium.co/2024/06/16/jpeg-image-format-history/
 bash - Which file descriptor numbers are safe to use in (POSIX) shell scripts? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/748702/which-file-descriptor-numbers-are-safe-to-use-in-posix-shell-scripts
+linux - What's the difference between 'hier(7)' and 'file-hierarchy(7)' man pages? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/567351/whats-the-difference-between-hier7-and-file-hierarchy7-man-pages
+hier(7) - Linux manual page, https://man7.org/linux/man-pages/man7/hier.7.html
+file-hierarchy(7) - Linux manual page, https://man7.org/linux/man-pages/man7/file-hierarchy.7.html

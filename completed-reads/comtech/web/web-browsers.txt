@@ -1,5 +1,3 @@
-Why does Chrome ask for my GNOME keyring (Seahorse) password? - Super User, https://superuser.com/questions/311216/why-does-chrome-ask-for-my-gnome-keyring-seahorse-password?rq=1
-linux - How do I print all passwords in Gnome Keyring (seahorse) - Super User, https://superuser.com/questions/871939/how-do-i-print-all-passwords-in-gnome-keyring-seahorse
 What's the difference between Google Chrome and/or Chromium? What are the advantages/disadvantages to each? - Ask Ubuntu, https://askubuntu.com/questions/6253/whats-the-difference-between-google-chrome-and-or-chromium-what-are-the-advant
 Bug #2073356 “Choose password for new keyring the first time chr...” : Bugs : chromium-browser package : Ubuntu, https://bugs.launchpad.net/ubuntu/+source/chromium-browser/+bug/2073356
 About the keyring used in Firefox - Linux Mint Forums, https://forums.linuxmint.com/viewtopic.php?t=317655

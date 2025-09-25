@@ -1,0 +1,21 @@
+command line - Why does ^C, ^V etc. appear in the terminal when I use the Ctrl+character keyboard shortcut? - Ask Ubuntu, https://askubuntu.com/questions/704600/why-does-c-v-etc-appear-in-the-terminal-when-i-use-the-ctrlcharacter-keyboa
+Entering text in the terminal is complicated, https://jvns.ca/blog/2024/07/08/readline/
+mattiase/wraptest: Test of DEC VT terminal line-wrapping semantics, https://github.com/mattiase/wraptest/tree/master
+Open Browser Bookmarks from the Terminal | Mark Skelton, https://mskelton.dev/bytes/open-browser-bookmarks-from-the-terminal
+shell - Why does the terminal echo keystrokes when commands are running? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/210628/why-does-the-terminal-echo-keystrokes-when-commands-are-running
+terminal - Caret square bracket square bracket A ^[[A - What does it mean? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/222901/caret-square-bracket-square-bracket-a-a-what-does-it-mean
+terminal - What is the point of Ctrl-S? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/137842/what-is-the-point-of-ctrl-s
+What happens when you press a key in your terminal?, https://jvns.ca/blog/2022/07/20/pseudoterminals/
+linux - Is there any reason why I get ^[[A when I press up arrow at the console login screen? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/103608/is-there-any-reason-why-i-get-a-when-i-press-up-arrow-at-the-console-login-sc
+Virtual console - Wikipedia, https://en.m.wikipedia.org/wiki/Virtual_console
+xorg - How do I run a graphical application in a virtual console besides <Alt+F7>? - Ask Ubuntu, https://askubuntu.com/questions/57533/how-do-i-run-a-graphical-application-in-a-virtual-console-besides-altf7
+bash - Get cursor location in tty without reading from stdin (need help with redirections) - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/714209/get-cursor-location-in-tty-without-reading-from-stdin-need-help-with-redirectio
+The TTY demystified, https://www.linusakesson.net/programming/tty/
+bash - How to handle backspace while reading? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/151068/how-to-handle-backspace-while-reading
+bash - In this \033[01;32m VT100 style ANSI Escape Sequences what is the 01; and the m? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/588600/in-this-0330132m-vt100-style-ansi-escape-sequences-what-is-the-01-and-the-m
+command line - How to change the default font size of XTerm? - Ask Ubuntu, https://askubuntu.com/questions/161652/how-to-change-the-default-font-size-of-xterm
+escape characters - Why does Ctrl-D (EOF) exit the shell? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/110240/why-does-ctrl-d-eof-exit-the-shell
+linux - What is the difference between screen-256 color and xterm-256color - Super User, https://superuser.com/questions/424086/what-is-the-difference-between-screen-256-color-and-xterm-256color
+Things You Didn't Know About GNU Readline, https://twobithistory.org/2019/08/22/readline.html
+user interface - Dialog from bash script - Stack Overflow, https://stackoverflow.com/questions/8354482/dialog-from-bash-script
+VTTEST – Examples of VT100/non-VT100 wrapping, https://invisible-island.net/vttest/vttest-wrap.html

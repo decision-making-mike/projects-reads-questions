@@ -23,3 +23,4 @@ Gnome-keyring – MX Linux, https://mxlinux.org/uncategorized/gnome-keyring/
 linux - Visual Studio Code asking to authenticate 'Default keyring' everytime I start - Stack Overflow, https://stackoverflow.com/questions/63107939/visual-studio-code-asking-to-authenticate-default-keyring-everytime-i-start
 GNOME Keyring - openSUSE Wiki, https://en.opensuse.org/GNOME_Keyring
 [Solved] GNOME Keyring not unlocked by LightDM / Newbie Corner / Arch Linux Forums, https://bbs.archlinux.org/viewtopic.php?id=233595
+linux - How do I print all passwords in Gnome Keyring (seahorse) - Super User, https://superuser.com/questions/871939/how-do-i-print-all-passwords-in-gnome-keyring-seahorse

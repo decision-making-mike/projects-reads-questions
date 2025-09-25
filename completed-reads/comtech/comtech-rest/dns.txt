@@ -1,0 +1,1 @@
+domain name system - Should I append a dot (.) at the end of my DNS urls? - Server Fault, https://serverfault.com/questions/803033/should-i-append-a-dot-at-the-end-of-my-dns-urls

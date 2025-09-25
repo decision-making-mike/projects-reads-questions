@@ -1,0 +1,1 @@
+linux - Shell prompt colored outside of tmux, but not in tmux; how can I get colored prompt in tmux? - Super User, https://superuser.com/questions/1838764/shell-prompt-colored-outside-of-tmux-but-not-in-tmux-how-can-i-get-colored-pro
