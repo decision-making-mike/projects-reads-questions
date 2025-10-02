@@ -1,0 +1,461 @@
+Document's overview. This document presents a list of paths of files and directories, most of which one can come upon in Linux operating systems. Some of them one can come upon in UNIX and related operating systems.
+
+Document's purpose. The purpose of the document is twofold, namely (order insignificant) (1) to support my learning of Linux, (2) to be part of my portfolio.
+
+Document's intended use. The intended use of the document is for me to create it (thereby to learn).
+
+Document's structure. "PATHS" section contains the paths. Each path is optionally followed by the etymology of the directory (or file) (in parentheses), optionally followed by descriptions of its content (after ":"). Each of the descriptions is followed by a list of references to sources. If there are no descriptions, the list of references follow the path (self-note, not the etymology). "SOURCES USED" section contains sources that have been used. "SOURCES CURRENTLY EXAMINED" section contains sources currently examined. "SEE ALSO" section contains resources that I have not yet used as sources. They are nonetheless related to this document, and one might be interested of examining them.
+
+Intention as for descriptions of the content of the directories and files. A decription of the content of a directory or file is intended to be approximate.
+
+Significance of the references of sources. Theoretically, I might prepare the list without providing sources, or providing them without references. But references let one verify if I have made a mistake (should they suspect so).
+
+Selection of sources. I assume that the usefulness of the list of paths in this document relies on the presence of context. Therefore, I try to select sources that contain more context than less. To give a perspicuous example, I prefer Wikipedia articles (more context) over "find /" (less context).
+
+Not marking (or introducing) of parent directories mentioned implicitly. I do not mark (or introduce, if they don't exist) parent directories that are mentioned implicitly. For example, if a source mentions the path /var/spool/mqueue, and does not mention the paths /var/spool, /var and / on their own, then I do not mark the latter three paths as coming from that source (or do not introduce them, if they do not exist). The rationale is, if we have a path to a directory (or file), then one must expect all the parent directories to this directory (or file), up to /, to be present. So, marking (or introducing) them explicitly would cause unnecessary clutter of obvious information. And, what follows, if we have a path to a directory, and one needs to know all the directories underneath, then one can just inspect all the paths that stems from this directory, and all the parent directories in them would constitute the whole tree ("whole" meaning this is all that this document is aware of). Apart from that, marking (or introducing) said directories would need my time, which, I guess, I could better spend elsehow.
+
+(Draft section. Differences between "/home/<user>", "$HOME" and ~. In this document, if a path starts with "/home/<user>", its instantiations will always start with "/home/" followed by the name of a user. If a path starts with "$HOME", its instantiations will always start with whatever string the variable "HOME" contains (which I expect in most cases to be either "/home/<user>" or empty). "~" is not used (and if it were, it would probably mean the same as "/home/<user>"). Obviously, in this document "/home/<user>" is preferred as a generic means to specify the user, and "$HOME" is preferred where a source refers to it explicitly.)
+
+Disclaimer. The document may contain incorrect information, for (1) I'm still learning, (2) it's not its purpose to be fully correct up front, but rather being corrected on an as-needed basis (if anyone happens to find incorrect information, of course).
+
+PATHS
+
+/ : initrd [1], kernel [1]
+/bin ("binaries") : executables [1]
+/boot : booting-related files [1] [3], initrd [1], kernel [1], EFI System Partition (ESP) [3]
+/dev ("devices") : physical devices files [1]
+/efi : EFI System Partition (ESP) [3]
+/etc (?) : configuration [1], "system-specific configuration" [3]
+/etc/X11 : X11 configuration [1]
+/etc/opt ("optional") : configuration [1]
+/etc/sgml : SGML configuration [1]
+/etc/skel ("skeleton"?) : home directory skeleton [1]
+/etc/xml : XML configuration [1]
+/home : users' home directories [1] [3], "normal user[s'] home directories" [3]
+/lib ("libraries") : shared libraries [1]
+/lib/modules : loadable kernel modules [1]
+/lib/<arch-id> : dynamic libraries [3], "public libraries" [3] (what's a "public library"?)
+/lib : (see /lib/<arch-id>) [3]
+/lib64 : (see /lib/<arch-id>) [3]
+/lib<qual> ("libraries") : libraries [1]
+/lost+found : "items lost in the filesystem" [1]
+/media : "mount points for removable media" [1]
+/media/cdrecorder[1-9] : CD recorder content [1]
+/media/cdrom[1-9] : CD-ROM drive content [1]
+/media/floppy[1-9] : floppy drive content [1]
+/media/usb[1-9] : USB drive content [1]
+/media/zip[1-9] : Zip drive content [1]
+/mnt ("mount") : mount points [1]
+/opt ("optional") : "This directory should contain add-on packages that contain static files" [1]
+/proc ("processes"?) : procfs [1]
+/root : "This directory is usually the home directory for the root user (...)" [1] (why "usually"?), root home directory [3]
+/sbin ("system binaries") : boot-related executables [1]
+/srv ("server") : "This directory contains site-specific data that is served by this system" [1], "server payload" [3] (what's that?)
+/sys ("system"?) : sysfs [1]
+/tmp ("temporary") : temporary files [1], smaller temporary files (see /var/tmp) [3]
+/usr ("user") : "shareable, read-only data" [1], vendor "operating system resources" [3] (what's an "operating system resource"?)
+/usr/X11R6 : X [1]
+/usr/X11R6/bin ("binaries") : X binaries [1]
+/usr/X11R6/include/X11 : X include files [1]
+/usr/X11R6/lib ("libraries") : X "data files" [1]
+/usr/X11R6/lib/X11 : (see /usr/lib/X11) [1]
+/usr/bin ("binaries") : executables [1], "binaries and executables for user commands that shall appear in the $PATH search path" [3]
+/usr/bin/X11 : X binaries [1], X executables [1]
+/usr/bin/mh ("MH Message Handling System") : executables for MH Message Handling System [1]
+/usr/dict ("dictionaries"?) : (see /usr/share/dict) [1]
+/usr/doc ("documentation"?) : (see /usr/share/doc) [1]
+/usr/etc (?): "site-wide" and shareable configuration [1]
+/usr/games : games' binaries [1], educational programs' binaries [1]
+/usr/include ("include files") : include files [1], "system libraries'" include files [3] (what's a "system library"?)
+/usr/include/X11 : X include files [1]
+/usr/include/asm ("assembler"? "assembly"?) : "include files which declare some assembler functions" [1]
+/usr/include/bsd : "BSD compatibility include files (...)" [1]
+/usr/include/g++ : g++ include files [1]
+/usr/include/linux : "operating-system-specific information" [1]
+/usr/lib ("libraries") : object libraries [1], dynamic libraries [1], executables [1], binaries "that are not useful for invocation from a shell" [3], daemon binaries [3], "static, private vendor data that is compatible with all architectures" [3]
+/usr/lib/X11 : X programs data [1], X configuration [1]
+/usr/lib/gcc-lib ("GCC libraries") : GCC executables [1], GCC include files [1]
+/usr/lib/groff : groff files [1]
+/usr/lib/uucp : uucp files [1]
+/usr/lib<qual> ("libraries") : (see /usr/lib) [1]
+/usr/lib<qual>/X11 : ? [1]
+/usr/local : local programs [1]
+/usr/local/bin ("binaries") : local binaries [1]
+/usr/local/doc ("documentation") : local documentation [1]
+/usr/local/etc (?) : local configuration [1]
+/usr/local/games : local games' binaries [1]
+/usr/local/include ("include files") : local C compiler's files [1]
+/usr/local/info ("info page") : local programs' info pages [1]
+/usr/local/lib ("libraries") : local programs' files [1]
+/usr/local/lib<qual> ("libraries") : (see /usr/local/lib) [1]
+/usr/local/man ("manuals") : local programs' man pages [1]
+/usr/local/sbin ("system binaries") : local system administration programs [1]
+/usr/local/share : local architecture-shareable data [1]
+/usr/local/src : local programs' sources [1]
+/usr/man ("manuals") : (see /usr/share/man) [1]
+/usr/sbin ("system binaries") : system administration binaries [1]
+/usr/share : architecture-shareable data [1], package-shareable resources (documentation, man pages, time zone information, fonts, etc.) [3]
+/usr/share/dict ("dictionaries") : spell checker word lists [1]
+/usr/share/dict/words : English spell checker words [1]
+/usr/share/doc ("documentation") : documentation [1], system documentation [3]
+/usr/share/factory/etc : vendor default configuration ("pristine vendor versions of all configuration files that may be placed in /etc/") [3]
+/usr/share/factory/var : /var files vendor versions [3]
+/usr/share/games : games' data [1]
+/usr/share/info : info pages [1]
+/usr/share/locale : locale information [1]
+/usr/share/man ("manuals") : man pages [1]
+/usr/share/man/<locale>/man[1-9] ("manuals") : locale-specific man pages' sources [1]
+/usr/share/misc : architecture-shareable data [1]
+/usr/share/nls ("native language support") : "The message catalogs for native language support go here (...)" [1]
+/usr/share/sgml : SGML [1]
+/usr/share/sgml/docbook : DocBook DTD [1]
+/usr/share/sgml/html : HTML DTD [1]
+/usr/share/sgml/mathtml : MathML DTD [1]
+/usr/share/sgml/tei : TEI DTD [1]
+/usr/share/terminfo : terminfo database [1]
+/usr/share/tmac ("troff macros") : troff macros [1]
+/usr/share/xml : XML [1]
+/usr/share/xml/docbook : DocBook DTD [1]
+/usr/share/xml/mathml : MathML DTD [1]
+/usr/share/xml/xhtml : XHTML DTD [1]
+/usr/share/zoneinfo ("timezone information") : timezone information [1]
+/usr/src ("source files") : source files [1]
+/usr/src/linux : kernel source [1]
+/usr/src/linux/include/asm ("assembler"? "assembly") : "Include files which declare some assembler functions" [1]
+/usr/src/linux/include/linux : "operating-system-specific information" [1]
+/usr/tmp ("temporary files") : (see /var/tmp) [1]
+/var ("variable-size files") : variable-size files [1], logs [1], spool files [1], "persistent, variable system data" [3]
+/var/account : "Process accounting logs" [1]
+/var/adm ("administration"?) : (see /var/log) [1]
+/var/backups : ? [1]
+/var/cache : cache [1]
+/var/cache/<package> : package-specific cache [1]
+/var/cache/fonts : "Locally-generated fonts (...)" [1]
+/var/cache/man ("manuals") : "Locally-formatted man pages (...)" [1]
+/var/cache/man/cat[1-9] : (see /var/catman/cat[1-9]) [1]
+/var/cache/www : web proxy data [1], web cache [1]
+/var/catman/cat[1-9] : "preformatted" man pages [1]
+/var/crash : "System crash dumps (...)" [1]
+/var/cron : ? [1]
+/var/games : "variable" game data [1]
+/var/lib ("libraries") : "Variable state information for programs" [1]
+/var/lib/<editor> : "Editor backup files and state (...)" [1]
+/var/lib/<name> : "distribution packaging support" files [1]
+/var/lib/<package> : "State data for packages and subsystems (...)" [1]
+/var/lib/<pkgtool> : "Packaging support files (...)" [1]
+/var/lib/hwclock : "State directory for hwclock (...)" [1]
+/var/lib/misc ("miscellaneous") : "Miscellaneous state data" [1]
+/var/lib/xdm : variable XDM data [1]
+/var/local : "Variable data for /usr/local" [1]
+/var/lock : lock files [1]
+/var/log [3] : logs [1]
+/var/mail : email mailboxes [1]
+/var/msgs ("messages") : ? [1]
+/var/opt ("optional") : "Variable data for /opt" [1]
+/var/preserve : ? [1]
+/var/run : run-time variable files [1], "files holding process identifiers" [1], logs [1]
+/run : "system packages'" run-time data [3] (what's a "system package"?)
+/run/user : user run-time directories [3]
+/run/log : system runtime logs [3], "system components may place private logs in this directory" [3] (what are "system components"?)
+/var/spool : "Spooled (or queued) files for various programs" [1]
+/var/spool/at : spooled at jobs [1]
+/var/spool/cron : spooled cron jobs [1]
+/var/spool/lpd ("line printer deamon"?) : spooled printing files [1]
+/var/spool/lpd/printer : printer "spools" [1]
+/var/spool/mail : (see /var/mail) [1]
+/var/spool/mqueue ("mail queue") : email queue [1] [2]
+/var/spool/news : "Spool directory for news (...)" [1]
+/var/spool/rwho : rwhod spooled files [1]
+/var/spool/smail : smail spooled files [1]
+/var/spool/uucp : uucp spooled files [1]
+/var/tmp ("temporary") : temporary files [1], larger temporary files (see /tmp) [3]
+/var/yp (Sun's "Yellow Pages"): NIS database [1]
+
+SOURCES USED
+
+[1] hier(7)
+[2] https://www.ibm.com/docs/en/aix/7.2.0?topic=management-mail-queue
+
+SOURCE CURRENTLY EXAMINED
+
+[3] file-hierarchy(7) (line 131)
+
+SEE ALSO (SOURCES TO EXAMINE, OR EXAMINED AS INAPPROPRIATE)
+
+where to seek information
+    "man" command (especially "man -k <word>". Maybe also "man -K <word>" (big "K"), but I find it not very useful as it tends to return many unrelated results)
+    https://www.wikipedia.org/
+    https://wiki.archlinux.org/title/Main_page
+    https://developer.mozilla.org/
+    https://www.ibm.com/docs
+concepts that I could not classify because I don't understand them
+    "message catalogs for native language support" (?)
+        [1]
+    "HDU UUCP lock file" (?)
+        [1]
+    "server payload" (?)
+        [3]
+    "ephemeral system" (?)
+        [3]
+miscellaneous concepts
+    operating system
+        https://en.m.wikipedia.org/wiki/Operating_system
+    interoperability
+        https://en.m.wikipedia.org/wiki/Interoperability
+    at, cron
+        at(1)
+        https://en.m.wikipedia.org/wiki/At_(command)
+        cron(8)
+        crontab(1)
+        crontab(5)
+        https://en.m.wikipedia.org/wiki/Cron
+        https://wiki.archlinux.org/title/Cron
+    systemd
+        systemd-path(1)
+        systemd(1)
+        systemd-gpt-auto-generator(8)
+    booting, boot loader
+        https://en.m.wikipedia.org/wiki/Booting
+        https://en.m.wikipedia.org/wiki/Booting_process_of_Linux
+        https://en.m.wikipedia.org/wiki/Bootloader
+    map installer
+        https://unix.stackexchange.com/questions/782077/fhs-what-is-the-map-installer
+    BSD
+        https://en.m.wikipedia.org/wiki/Berkeley_Software_Distribution
+    compatibility
+        https://en.m.wikipedia.org/wiki/Computer_compatibility
+    info page, man page
+        info(1)
+        https://en.m.wikipedia.org/wiki/Info_(Unix)
+        https://wiki.archlinux.org/title/GNU#Texinfo
+        man(1)
+        https://en.m.wikipedia.org/wiki/Man_page
+        https://wiki.archlinux.org/title/Man_page
+    terminfo
+        terminfo(5)
+        https://en.m.wikipedia.org/wiki/Terminfo
+    log
+        https://en.m.wikipedia.org/wiki/Logging_(computing)
+    process accounting
+        https://unix.stackexchange.com/questions/468909/what-does-process-accounting-mean-in-linux
+    crash dump
+        https://en.m.wikipedia.org/wiki/Core_dump
+        https://wiki.archlinux.org/title/Core_dump
+    daemon
+        https://en.m.wikipedia.org/wiki/Daemon_(computing)
+data format and representation concepts
+    ASCII, newline character
+        https://en.m.wikipedia.org/wiki/ASCII
+        https://en.m.wikipedia.org/wiki/Newline
+    SGML
+        https://en.m.wikipedia.org/wiki/Standard_Generalized_Markup_Language
+    XML
+        https://en.m.wikipedia.org/wiki/XML
+    GROFF, troff
+        groff(1)
+        groff(7)
+        https://wiki.archlinux.org/title/Groff
+        https://en.m.wikipedia.org/wiki/Groff_(software)
+        troff(1)
+        https://en.m.wikipedia.org/wiki/Troff
+    SGML
+        https://en.m.wikipedia.org/wiki/Standard_Generalized_Markup_Language
+    DocBook
+        https://en.m.wikipedia.org/wiki/DocBook
+        https://wiki.archlinux.org/title/DocBook
+    DTD
+        https://en.m.wikipedia.org/wiki/Document_type_definition
+    TEI
+        https://en.m.wikipedia.org/wiki/Text_Encoding_Initiative (?)
+    XML, HTML, XHTML
+        https://en.m.wikipedia.org/wiki/XML
+        https://developer.mozilla.org/en-US/docs/Web/XML
+        https://en.m.wikipedia.org/wiki/HTML
+        https://developer.mozilla.org/en-US/docs/Web/HTML
+        https://en.m.wikipedia.org/wiki/XHTML
+    MathML
+        https://en.m.wikipedia.org/wiki/MathML
+        https://developer.mozilla.org/en-US/docs/Web/MathML
+data administration, access, processing and storage concepts
+    "MSDOS_SUPER_MAGIC" file system type
+        statfs(2)
+    file system
+        https://en.m.wikipedia.org/wiki/File_system
+    executable
+        https://en.m.wikipedia.org/wiki/Executable
+    spool file
+        https://en.m.wikipedia.org/wiki/Spooling
+    lock file
+        https://en.m.wikipedia.org/wiki/File_locking
+    symbolic link, symlink
+        symlink(7)
+        ln(1)
+    file
+        https://en.m.wikipedia.org/wiki/Computer_file
+    directory, directory hierarchy
+        https://en.m.wikipedia.org/wiki/Directory_(computing)
+        http://www.pathname.com/fhs/
+        https://www.debian.org/releases/stable/amd64/apcs02.en.html
+    "find" command
+        find(1)
+    mounting, mount point, "mount" command
+        https://en.m.wikipedia.org/wiki/Mount_(computing)
+        mount(8)
+    tmpfs, temporary filesystem
+        https://en.m.wikipedia.org/wiki/Tmpfs
+    static file, variable file
+        https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch02.html
+    sysfs
+        https://en.m.wikipedia.org/wiki/Sysfs
+    partition
+        https://en.m.wikipedia.org/wiki/Disk_partitioning
+    binary, binary file
+        https://en.m.wikipedia.org/wiki/Binary_file
+    shareable file
+        https://en.m.wikipedia.org/wiki/Shared_resource
+    procfs, proc filesystem
+        proc(5)
+        https://en.m.wikipedia.org/wiki/Procfs
+    cache
+        https://en.m.wikipedia.org/wiki/Cache_(computing)
+        https://en.m.wikipedia.org/wiki/Cache_invalidation
+remote administration concepts
+    UUCP
+        uucp(1)
+        https://en.m.wikipedia.org/wiki/UUCP
+network administration and management concepts
+    host
+        https://en.m.wikipedia.org/wiki/Host_(network)
+    smail
+        smail(1)
+        https://en.m.wikipedia.org/wiki/Smail (?)
+    NIS, Sun Yellow Pages, YP
+        https://wiki.archlinux.org/title/NIS
+        https://en.m.wikipedia.org/wiki/Network_Information_Service
+    sendmail
+        https://en.m.wikipedia.org/wiki/Sendmail
+    mailq
+        ?
+process management concepts
+    PID
+        https://en.m.wikipedia.org/wiki/Process_identifier
+memory management concepts
+    user space
+        https://en.m.wikipedia.org/wiki/User_space_and_kernel_space
+hardware, hardware management and firmware concepts
+    hwclock
+        hwclock(8)
+        https://wiki.archlinux.org/title/System_time#Hardware_clock
+    UEFI, EFI System Partition, ESP
+        https://en.m.wikipedia.org/wiki/UEFI
+        https://en.m.wikipedia.org/wiki/EFI_system_partition
+    emulated hardware
+        https://en.m.wikipedia.org/wiki/Hardware_emulation
+    device file, special file
+        https://en.m.wikipedia.org/wiki/Device_file
+        mknod(1)
+    removable media
+        https://en.m.wikipedia.org/wiki/Removable_media
+    Zip
+        https://en.m.wikipedia.org/wiki/Zip_drive
+    floppy
+        https://en.m.wikipedia.org/wiki/Floppy_disk
+    USB
+        https://en.m.wikipedia.org/wiki/USB
+    LPD
+        https://en.m.wikipedia.org/wiki/Line_Printer_Daemon_protocol
+user management concepts
+    utmp
+        utmp(5)
+        https://en.m.wikipedia.org/wiki/Utmp
+    rwhod
+        rwhod(8)
+    user database
+        https://wiki.archlinux.org/title/Users_and_groups#User_database
+    single-user mode
+        https://en.m.wikipedia.org/wiki/Single-user_mode
+    home directory
+        https://en.m.wikipedia.org/wiki/Home_directory
+    root directory, root file system
+        https://en.m.wikipedia.org/wiki/Root_directory
+    root user, superuser
+        https://en.m.wikipedia.org/wiki/Superuser
+    read-only file, readable file, writable file
+        https://en.m.wikipedia.org/wiki/File-system_permissions
+configuration-related concepts
+    configuration
+        https://en.m.wikipedia.org/wiki/Computer_configuration
+    "PATH" environment variable
+        [3]
+        https://en.m.wikipedia.org/wiki/PATH_(variable)
+    "libdir" environment variable
+        [3]
+    "HOME" environment variable
+        [3]
+    "TMPDIR", "TEMP", "TEMPDIR", "TMP" environment variables
+        [3]
+        https://en.m.wikipedia.org/wiki/TMPDIR
+    "XDG_RUNTIME_DIR" environment variable
+        [3]
+    locale
+        https://en.m.wikipedia.org/wiki/Locale_(computer_software)
+        https://wiki.archlinux.org/title/Locale
+    user environment, environment variable
+        environ(7)
+        https://en.m.wikipedia.org/wiki/Environment_variable
+        https://wiki.archlinux.org/title/Environment_variables
+kernel concepts
+    kernel, initrd, kobject
+        https://en.m.wikipedia.org/wiki/Kernel_(operating_system)
+        https://en.m.wikipedia.org/wiki/Initial_ramdisk
+        https://www.kernel.org/doc/Documentation/kobject.txt
+GUI and CLI concepts
+    shell
+        https://en.m.wikipedia.org/wiki/Shell_(computing)
+        https://wiki.archlinux.org/title/Command-line_shell
+    X, X11, XDM
+        x(7)
+        https://en.m.wikipedia.org/wiki/X_Window_System
+        xdm(1)
+        https://en.m.wikipedia.org/wiki/X_display_manager
+        https://wiki.archlinux.org/title/XDM
+package management
+    package
+        https://en.m.wikipedia.org/wiki/Package_format
+software development and programming concepts
+    compilation, compiler
+        https://en.m.wikipedia.org/wiki/Compiler
+    C
+        https://en.m.wikipedia.org/wiki/C_(programming_language)
+    library, shared library, dynamic library
+        https://en.m.wikipedia.org/wiki/Library_(computing)
+        https://en.m.wikipedia.org/wiki/Shared_library
+        https://en.m.wikipedia.org/wiki/Dynamic_library
+    "system library"
+        https://unix.stackexchange.com/questions/666524/what-are-linux-system-libraries
+    include file
+        https://en.m.wikipedia.org/wiki/Include_directive
+    assembler
+        https://en.m.wikipedia.org/wiki/Assembly_language
+    release
+        https://en.m.wikipedia.org/wiki/Software_release_life_cycle
+    libc
+        https://en.m.wikipedia.org/wiki/C_standard_library
+    GNU, GNU compiler
+        https://wiki.archlinux.org/title/GNU
+        https://wiki.archlinux.org/title/GNU_Compiler_Collection
+        https://en.m.wikipedia.org/wiki/GNU_Project
+        https://en.m.wikipedia.org/wiki/GNU_Compiler_Collection
+    source code
+        https://en.m.wikipedia.org/wiki/Source_code
+    macro
+        https://en.m.wikipedia.org/wiki/Macro_(computer_science)
+    "mkstemp" call, "mkdtemp" call
+        mkstemp(3)
+        mkdtemp(3)
+    API
+        https://en.m.wikipedia.org/wiki/API
+    runtime environment
+        https://en.m.wikipedia.org/wiki/Runtime_system
+    documentation
+        https://en.m.wikipedia.org/wiki/Software_documentation

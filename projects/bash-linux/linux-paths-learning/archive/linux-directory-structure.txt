@@ -93,6 +93,8 @@
             ~/.config (10)
             | RSO   $XDG_CONFIG_HOME (10)
 
+            ~/.fonts.conf (42)
+
             ~/.local (10)
 
                 ~/.local/bin (10)
@@ -266,6 +268,8 @@
 
             /usr/lib/gcc-lib (8)
             | RSO   gcc(1) (8)
+
+            /usr/lib/graphviz/config (42)
 
             /usr/lib/groff (8)
             | RSO   groff (8)
@@ -644,3 +648,4 @@
 |   (39) which groff
 |   (40) which dvipng
 |   (41) which xhost
+|   (42) https://graphviz.gitlab.io/faq/font/
