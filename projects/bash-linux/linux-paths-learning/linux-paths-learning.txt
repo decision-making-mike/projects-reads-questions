@@ -18,26 +18,39 @@ Disclaimer. The document may contain incorrect information, for (1) I'm still le
 
 PATHS
 
-$XDG_RUNTIME_DIR/package : user package run-time data [3]
-/ : initrd [1], kernel [1]
+${XDG_RUNTIME_DIR}/<package> : user package run-time data [3]
+${sysconfdir}/krb5.keytab : PostgreSQL 17's "krb_server_keyfile" [4] (what's that?)
+/ : initrd [1], kernel [1], "Root Partition" [5] (what's that?)
 /bin ("binaries") : executables [1], (see /usr/bin) [3]
-/boot : booting-related files [1] [3], initrd [1], kernel [1], EFI System Partition (ESP) [3]
+/boot : booting-related files [1] [3], initrd [1], kernel [1], EFI System Partition (ESP) [3] [5], "Extended Boot Loader Partition" [5] (what's that?)
 /dev ("devices") : physical devices [1], "device nodes" [3] (not sure what they are)
+/dev/mapper/home : "device mapper device" [5] (what's that?)
+/dev/mapper/root : "device mapper device" [5] (what's that?)
+/dev/mapper/srv : "device mapper device" [5] (what's that?)
+/dev/mapper/tmp : "device mapper device" [5] (what's that?)
+/dev/mapper/var : "device mapper device" [5] (what's that?)
 /dev/shm ("shared memory"?) : POSIX shared memory [3]
-/efi : EFI System Partition (ESP) [3]
+/efi : EFI System Partition (ESP) [3] [5]
 /etc (?) : configuration [1], "system-specific configuration" [3] (what's that?)
 /etc/<package> : system-specific package configuration [3]
 /etc/X11 : X11 configuration [1]
+/etc/crypttab : "device mapper device names" [5] (what's that?)
+/etc/fstab [5]
 /etc/opt ("optional") : configuration [1]
+/etc/postgresql/17/main/pg_hba.conf : PostgreSQL 17's host-based authentication configuration [4]
+/etc/postgresql/17/main/pg_ident.conf : PostgreSQL 17's "ident configuration" [4] (what's that?)
 /etc/sgml : SGML configuration [1]
 /etc/skel ("skeleton"?) : home directory skeleton [1]
+/etc/ssl/certs/ssl-cert-snakeoil.pem : PostgreSQL 17's "ssl_cert_file" [4]
+/etc/ssl/private/ssl-cert-snakeoil.key : PostgreSQL 17's "ssl_key_file" [4]
 /etc/xml : XML configuration [1]
-/home : users' home directories [1] [3], "normal user[s'] home directories" [3]
+/home : users' home directories [1] [3], "normal user[s'] home directories" [3], "Home Partition" [5] (what's that?)
 /lib ("libraries") : shared libraries [1], (see /lib/<arch-id>) [3]
 /lib/<arch-id> : dynamic libraries [3], "public libraries" [3], package "public" shared libraries [3] (what's a "public" library?)
 /lib/<arch-id>/<package> : architecture-unshareable package "private other vendor resources" [3] (what's a "private" resource?)
 /lib/<package> : package "private" static vendor data (e.g. "private" binaries, "private" libraries, read-only vendor data) [3] (what are "private" data?)
 /lib/modules : loadable kernel modules [1]
+/lib/systemd/system-generators/systemd-gpt-auto-generator : systemd-gpt-auto-generator [5]
 /lib64 : (see /lib/<arch-id>) [3], (see $libdir) [3]
 /lib<qual> ("libraries") : libraries [1]
 /lost+found : "items lost in the filesystem" [1]
@@ -56,10 +69,12 @@ $XDG_RUNTIME_DIR/package : user package run-time data [3]
 /run/<package> : run-time package data [3]
 /run/log : system run-time logs [3], "system components may place private logs in this directory" [3] (what are "system components"?)
 /run/log/<package> : package run-time logs [3]
+/run/postgresql : PostgreSQL 17's "UNIX socket directory" [4] (what's that?)
 /run/user : user run-time directories [3]
 /sbin ("system binaries") : boot-related executables [1], (see /usr/bin) [3]
-/srv ("server") : "this directory contains site-specific data that is served by this system" [1], "server payload" [3] (what's that?)
+/srv ("server") : "this directory contains site-specific data that is served by this system" [1], "server payload" [3] (what's that?), "Server Data Partition" [5] (what's that?)
 /sys ("system"?) : sysfs [1], "discovered devices and other functionality" [3]
+/sysroot [5]
 /tmp ("temporary") : temporary files [1], smaller temporary files (see /var/tmp) [3]
 /usr ("user") : "shareable, read-only data" [1], vendor "operating system resources" [3] (what's an "operating system resource"?)
 /usr/X11R6 : X [1]
@@ -134,7 +149,7 @@ $XDG_RUNTIME_DIR/package : user package run-time data [3]
 /usr/src/linux/include/asm ("assembler"? "assembly") : "include files which declare some assembler functions" [1]
 /usr/src/linux/include/linux : "operating-system-specific information" [1]
 /usr/tmp ("temporary files") : (see /var/tmp) [1]
-/var ("variable-size files") : variable-size files [1], logs [1], spool files [1], "persistent, variable system data" [3] (not sure if "variable" is to mean size or content)
+/var ("variable-size files") : variable-size files [1], logs [1], spool files [1], "persistent, variable system data" [3] (not sure if "variable" is to mean size or content), "Variable Data Partition" [5] (what's that?)
 /var/account : "process accounting logs" [1]
 /var/adm ("administration"?) : (see /var/log) [1]
 /var/backups : ? [1]
@@ -155,6 +170,7 @@ $XDG_RUNTIME_DIR/package : user package run-time data [3]
 /var/lib/<pkgtool> : "packaging support files (...)" [1]
 /var/lib/hwclock : "state directory for hwclock (...)" [1]
 /var/lib/misc ("miscellaneous") : "miscellaneous state data" [1]
+/var/lib/postgresql/17/main : PostgreSQL 17's "data" [4]
 /var/lib/xdm : variable XDM data [1]
 /var/local : "variable data for /usr/local" [1]
 /var/lock : lock files [1]
@@ -165,6 +181,7 @@ $XDG_RUNTIME_DIR/package : user package run-time data [3]
 /var/opt ("optional") : "variable data for /opt" [1]
 /var/preserve : ? [1]
 /var/run : run-time variable files [1], "files holding process identifiers" [1], logs [1], (see /run) [3]
+/var/run/postgresql/17-main.pid : PostgreSQL 17's "extra PID file" [4] (what's that?)
 /var/spool : "spooled (or queued) files for various programs" [1] (not sure if "spooled" is to mean the same as "queued", or something different), persistent system spool data (printer queues, email queues) [3]
 /var/spool/<package> : persistent "spool/queue" package data [3] (is "spool/queue" to suggest they are the same or not the same?)
 /var/spool/at : spooled at jobs [1]
@@ -177,7 +194,7 @@ $XDG_RUNTIME_DIR/package : user package run-time data [3]
 /var/spool/rwho : rwhod spooled files [1]
 /var/spool/smail : smail spooled files [1]
 /var/spool/uucp : uucp spooled files [1]
-/var/tmp ("temporary") : temporary files [1], larger and persistent temporary files (see /tmp) [3]
+/var/tmp ("temporary") : temporary files [1], larger and persistent temporary files (see /tmp) [3], "Temporary Data Partition" [5] (what's that?)
 /var/yp (Sun's "yellow Pages"): NIS database [1]
 ~/.cache : persistent user cache [3]
 ~/.cache/<package> : persistent package cache [3]
@@ -195,6 +212,8 @@ SOURCES USED
 [1] hier(7)
 [2] https://www.ibm.com/docs/en/aix/7.2.0?topic=management-mail-queue
 [3] file-hierarchy(7)
+[4] /etc/postgresql/17/main/postgresql.conf
+[5] systemd-gpt-auto-generator(8)
 
 SOURCE CURRENTLY EXAMINED
 
@@ -207,6 +226,8 @@ where to seek information
     https://developer.mozilla.org/
     https://www.ibm.com/docs
 concepts that I could not classify because I don't understand them
+    "Extended Boot Loader Partition" (?)
+        [5]
     "user context" (?)
         [3]
     "device node" (?)
@@ -221,6 +242,8 @@ concepts that I could not classify because I don't understand them
         [3]
     "ephemeral system" (?)
         [3]
+    "device mapper device" (?)
+        [5]
 miscellaneous concepts
     Multiarch Architecture Specifiers (Tuples)
         https://wiki.debian.org/Multiarch/Tuples
@@ -242,7 +265,15 @@ miscellaneous concepts
         systemd-path(1)
         systemd(1)
         systemd-gpt-auto-generator(8)
+        systemd.generator(7)
+        systemd-remount-fs.service(8)
+        systemd.mount(5)
+        systemd.swap(5)
+        systemd-cryptsetup@.service(8)
+        https://systemd.io/BOOT_LOADER_INTERFACE/
     booting, boot loader
+        https://uapi-group.org/specifications/specs/boot_loader_specification/
+        bootup(7)
         https://en.m.wikipedia.org/wiki/Booting
         https://en.m.wikipedia.org/wiki/Booting_process_of_Linux
         https://en.m.wikipedia.org/wiki/Bootloader
@@ -276,6 +307,8 @@ miscellaneous concepts
     containerization
         https://en.m.wikipedia.org/wiki/Containerization_(computing)
 computer security concepts
+    HMAC-SHA256
+        https://en.m.wikipedia.org/wiki/HMAC
     sandboxing
         https://en.m.wikipedia.org/wiki/Sandbox_(computer_security)
 data format and representation concepts
@@ -312,6 +345,19 @@ data format and representation concepts
         https://en.m.wikipedia.org/wiki/MathML
         https://developer.mozilla.org/en-US/docs/Web/MathML
 data administration, access, processing and storage concepts
+    LUKS
+        https://en.m.wikipedia.org/wiki/Linux_Unified_Key_Setup
+    "root partition" (?)
+        [5]
+        ?
+    btrfs
+        https://en.m.wikipedia.org/wiki/Btrfs
+        btrfs(5)
+        btrfs(8)
+    RAID
+        https://en.m.wikipedia.org/wiki/RAID
+    GPT
+        https://en.m.wikipedia.org/wiki/GUID_Partition_Table
     virtual file system
         https://en.m.wikipedia.org/wiki/Virtual_file_system
     devtmpfs
@@ -320,6 +366,7 @@ data administration, access, processing and storage concepts
         statfs(2)
     file system
         https://en.m.wikipedia.org/wiki/File_system
+        fstab(5)
     executable
         https://en.m.wikipedia.org/wiki/Executable
     spool file
@@ -362,6 +409,8 @@ data administration, access, processing and storage concepts
     cache
         https://en.m.wikipedia.org/wiki/Cache_(computing)
         https://en.m.wikipedia.org/wiki/Cache_invalidation
+    The Discoverable Partitions Specification (DPS)
+        https://uapi-group.org/specifications/specs/discoverable_partitions_specification/
 remote administration concepts
     UUCP
         uucp(1)
@@ -389,15 +438,23 @@ process management concepts
     PID
         https://en.m.wikipedia.org/wiki/Process_identifier
 memory management concepts
+    swap partition
+        https://en.m.wikipedia.org/wiki/Memory_paging
     POSIX shared memory
         shm_open(3)
     user space
         https://en.m.wikipedia.org/wiki/User_space_and_kernel_space
 hardware, hardware management and firmware concepts
+    cryptsetup
+        cryptsetup(8)
+        https://en.m.wikipedia.org/wiki/Dm-crypt
+    device mapper
+        https://en.m.wikipedia.org/wiki/Device_mapper
     hwclock
         hwclock(8)
         https://wiki.archlinux.org/title/System_time#Hardware_clock
     UEFI, EFI System Partition, ESP
+        https://uefi.org/specifications
         https://en.m.wikipedia.org/wiki/UEFI
         https://en.m.wikipedia.org/wiki/EFI_system_partition
     emulated hardware
@@ -437,6 +494,8 @@ user management concepts
     read-only file, readable file, writable file
         https://en.m.wikipedia.org/wiki/File-system_permissions
 configuration-related concepts
+    machine-id
+        machine-id(5)
     configuration
         https://en.m.wikipedia.org/wiki/Computer_configuration
     "PATH" environment variable
@@ -466,6 +525,16 @@ configuration-related concepts
         https://wiki.archlinux.org/title/Environment_variables
         https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap08.html#tag_08_03
 kernel concepts
+    "systemd.gpt_auto" parameter
+        ?
+    "rd.systemd.gpt_auto" parameter
+        ?
+    "root=" parameter
+        ?
+    "rw" parameter
+        ?
+    "ro" parameter
+        ?
     "kernel tunables" (?), kernel parameters
         [3]
         sysctl.d(5)
