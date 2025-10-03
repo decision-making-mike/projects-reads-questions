@@ -7,3 +7,4 @@ Poweroff causing: Kernel panic – not syncing: Attempted to kill init! · Issue
 ubuntu - Error message here end Kernel Panic - not syncing: attempted to kill init! exitcode=0x00007f00 - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/691923/error-message-here-end-kernel-panic-not-syncing-attempted-to-kill-init-exitc
 Kernel panic - not syncing: Attempted to kill init! exitcode=0x00007f00 - Linux Mint Forums, https://forums.linuxmint.com/viewtopic.php?t=336935
 initng – or how to boot Linux faster – OSnews, https://www.osnews.com/story/10513/initng-or-how-to-boot-linux-faster/
+FHS: what is "the map installer"? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/782077/fhs-what-is-the-map-installer

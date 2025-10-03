@@ -8,3 +8,7 @@ Using the viewport meta element - HTML: HyperText Markup Language | MDN, https:/
 CSS Length Explained - Mozilla Hacks - the Web developer blog, https://hacks.mozilla.org/2013/09/css-length-explained/
 Negative margins in CSS - QuirksBlog, https://www.quirksmode.org/blog/archives/2020/02/negative_margin.html
 Understanding quirks and standards modes - HTML: HyperText Markup Language | MDN, https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Quirks_mode_and_standards_mode
+Fixed Headers and Jump Links? The Solution is scroll-margin-top | CSS-Tricks, https://css-tricks.com/fixed-headers-and-jump-links-the-solution-is-scroll-margin-top/
+Hash Tag Links That Don't Headbutt The Browser Window | CSS-Tricks, https://css-tricks.com/hash-tag-links-padding/
+Basic concepts of scroll snap - CSS | MDN, https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_scroll_snap/Basic_concepts
+::before vs :before | CSS-Tricks, https://css-tricks.com/to-double-colon-or-not-do-double-colon/

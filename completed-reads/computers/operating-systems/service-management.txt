@@ -1,0 +1,8 @@
+Daemon (computing) - Wikipedia, https://en.m.wikipedia.org/wiki/Daemon_(computing)
+Rethinking PID 1, https://0pointer.de/blog/projects/systemd.html
+systemd - Wikipedia, https://en.m.wikipedia.org/wiki/Systemd
+systemd-gpt-auto-generator, https://www.freedesktop.org/software/systemd/man/latest/systemd-gpt-auto-generator.html
+systemd-path(1) — systemd — Debian trixie — Debian Manpages, https://manpages.debian.org/trixie/systemd/systemd-path.1.en.html
+The Homelab Show Ep. 98 – Linux SYSTEMD Explained - The Homelab Show | Podcast on Spotify, https://open.spotify.com/episode/1YbUMqmFq8jpjTANv7IxVJ
+Why I support systemd's plan to take over the world | Opensource.com, https://opensource.com/article/21/5/systemd
+Why do you like Runit so much? : r/voidlinux, https://www.reddit.com/r/voidlinux/comments/11a331z/why_do_you_like_runit_so_much/?sort=old

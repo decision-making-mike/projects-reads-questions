@@ -3,5 +3,5 @@ Is there a way to improve performance of linux pipes? - Stack Overflow, https://
 Kernel panic - Wikipedia, https://en.m.wikipedia.org/wiki/Kernel_panic
 Named pipe - Wikipedia, https://en.m.wikipedia.org/wiki/Named_pipe
 X Input Method - Wikipedia, https://en.m.wikipedia.org/wiki/X_Input_Method
-Rethinking PID 1, https://0pointer.de/blog/projects/systemd.html
-systemd-gpt-auto-generator, https://www.freedesktop.org/software/systemd/man/latest/systemd-gpt-auto-generator.html
+container - What does "process accounting" mean in Linux? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/468909/what-does-process-accounting-mean-in-linux
+What are system libraries? : r/linuxquestions, https://www.reddit.com/r/linuxquestions/comments/r1dw76/what_are_system_libraries/?sort=old

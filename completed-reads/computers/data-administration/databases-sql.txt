@@ -61,3 +61,5 @@ Data and Reality [Excerpts], https://www.bkent.net/Doc/darxrp.htm
 Tutorial Dee, https://wiki.c2.com/?TutorialDee
 SQL co-creator embraces NoSQL • The Register, https://www.theregister.com/2024/05/10/sql_cocreator_nosql/
 Nowoczesne czy klasyczne hurtownie danych? - YouTube, https://m.youtube.com/watch?v=P5yzgqzdkP8
+user_clusters(5) — postgresql-client-common — Debian unstable — Debian Manpages, https://manpages.debian.org/unstable/postgresql-client-common/user_clusters.5.en.html
+Ubuntu Manpage: pg_wrapper - wrapper for PostgreSQL client commands, https://manpages.ubuntu.com/manpages/jammy/man1/pg_wrapper.1.html

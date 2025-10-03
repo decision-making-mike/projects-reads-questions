@@ -1,2 +1,3 @@
 filesystems - Why is a text file taking up at least 4kB even when there's just one byte of text in it? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/62049/why-is-a-text-file-taking-up-at-least-4kb-even-when-theres-just-one-byte-of-tex
 filesystems - Why do hard links exist? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/20670/why-do-hard-links-exist
+linux - What does "mounting a root file system" mean exactly? - Super User, https://superuser.com/questions/193918/what-does-mounting-a-root-file-system-mean-exactly
