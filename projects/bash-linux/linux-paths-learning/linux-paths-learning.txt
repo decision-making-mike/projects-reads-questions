@@ -18,6 +18,9 @@ Disclaimer. The document may contain incorrect information, for (1) I'm still le
 
 PATHS
 
+${HOME}/.postgresqlrc : PostgreSQL configuration [8]
+${PGSYSCONFDIR} : "PostgreSQL's and postgresql-common's global configuration (e. g. pg_service.conf, user_clusters(5))" [8]
+${PG_CLUSTER_CONF_ROOT} : PostgreSQL cluster configurations [8]
 ${XDG_RUNTIME_DIR}/<package> : user package run-time data [3]
 ${sysconfdir}/krb5.keytab : PostgreSQL 17's "krb_server_keyfile" [4] (what's that?)
 / : initrd [1], kernel [1], "Root Partition" [5] (what's that?)
@@ -37,6 +40,9 @@ ${sysconfdir}/krb5.keytab : PostgreSQL 17's "krb_server_keyfile" [4] (what's tha
 /etc/crypttab : "device mapper device names" [5] (what's that?)
 /etc/fstab [5]
 /etc/opt ("optional") : configuration [1]
+/etc/postgresql : PostgreSQL cluster configurations [8]
+/etc/postgresql-common/ : "PostgreSQL's and postgresql-common's global configuration (e. g. pg_service.conf, user_clusters(5))" [8]
+/etc/postgresql-common/user_clusters : PostgreSQL user-to-cluster map [7], PostgreSQL database and cluster configuration [8]
 /etc/postgresql/17/main/pg_hba.conf : PostgreSQL 17's host-based authentication configuration [4]
 /etc/postgresql/17/main/pg_ident.conf : PostgreSQL 17's "ident configuration" [4] (what's that?)
 /etc/sgml : SGML configuration [1]
@@ -64,6 +70,7 @@ ${sysconfdir}/krb5.keytab : PostgreSQL 17's "krb_server_keyfile" [4] (what's tha
 /opt ("optional") : "this directory should contain add-on packages that contain static files" [1]
 /proc ("processes"?) : procfs [1], "process list and other functionality" [3]
 /proc/sys ("system"?) : "kernel tunables" [3] (what's that?)
+/proc/sys/net/* : sysctl [9]
 /root : "this directory is usually the home directory for the root user (...)" [1] (why "usually"?), root home directory [3]
 /run : "system packages'" run-time data [3] (what's a "system package"?), sockets [3], named pipes [3]
 /run/<package> : run-time package data [3]
@@ -99,7 +106,9 @@ ${sysconfdir}/krb5.keytab : PostgreSQL 17's "krb_server_keyfile" [4] (what's tha
 /usr/lib ("libraries") : object libraries [1], dynamic libraries [1], executables [1], binaries "that are not useful for invocation from a shell" [3], daemon binaries [3], "static, private vendor data that is compatible with all architectures" [3]
 /usr/lib/X11 : X programs data [1], X configuration [1]
 /usr/lib/gcc-lib ("GCC libraries") : GCC executables [1], GCC include files [1]
+/usr/lib/graphviz/config [6]
 /usr/lib/groff : groff files [1]
+/usr/lib/postgresql/version/bin : PostgreSQL programs [8]
 /usr/lib/uucp : uucp files [1]
 /usr/lib<qual> ("libraries") : (see /usr/lib) [1]
 /usr/lib<qual>/X11 : ? [1]
@@ -200,12 +209,14 @@ ${sysconfdir}/krb5.keytab : PostgreSQL 17's "krb_server_keyfile" [4] (what's tha
 ~/.cache/<package> : persistent package cache [3]
 ~/.config : "application configuration and state" [3] (what's "state"?)
 ~/.config/<package> : user package configuration and "state" [3] (what's "state"?)
+~/.fonts : fonts [6]
 ~/.local/bin : PATH executables [3], PATH package executables [3]
 ~/.local/lib : "static, private vendor data that is compatible with all architectures" (e.g. executables "not useful for invocation from a shell") [3] (what are "private" vendor data?)
 ~/.local/lib/<arch-id> : "public" dynamic libraries [3], "public" shared package libraries [3] (what is a "public" library?)
 ~/.local/lib/<arch-id>/<package> : architecture-unshareable package "private other vendor resources" [3]
 ~/.local/lib/<package> : "private" static vendor package data [3] (what are "private" data?), read-only vendor data [3]
 ~/.local/share : package-shareable data (e.g. fonts, artwork) [3], static vendor data [3]
+~/.postgresqlrc [7] [8]
 
 SOURCES USED
 
@@ -214,8 +225,13 @@ SOURCES USED
 [3] file-hierarchy(7)
 [4] /etc/postgresql/17/main/postgresql.conf
 [5] systemd-gpt-auto-generator(8)
+[6] https://graphviz.gitlab.io/faq/font/
+[7] user_clusters(5)
+[8] https://manpages.debian.org/unstable/postgresql-client-common/pg_wrapper.1.en.html
+[9] traceroute(1)
 
 SOURCE CURRENTLY EXAMINED
+
 
 SEE ALSO (SOURCES TO EXAMINE, OR EXAMINED AS INAPPROPRIATE)
 
@@ -244,7 +260,11 @@ concepts that I could not classify because I don't understand them
         [3]
     "device mapper device" (?)
         [5]
-miscellaneous concepts
+other concepts
+    (unspecified concept resources)
+        https://wiki.archlinux.org/title/Frequently_asked_questions
+        https://wiki.gentoo.org/wiki/User:SwifT/Complete_Handbook/Users_and_the_Linux_file_system
+        https://www.debian.org/doc/debian-policy/ch-opersys.html
     Multiarch Architecture Specifiers (Tuples)
         https://wiki.debian.org/Multiarch/Tuples
     operating system
@@ -260,20 +280,24 @@ miscellaneous concepts
         https://en.m.wikipedia.org/wiki/Cron
         https://wiki.archlinux.org/title/Cron
     systemd
-        systemd.unit(5)
-        systemd-udevd(8)
-        systemd-path(1)
+        https://systemd.io/BOOT_LOADER_INTERFACE
+        https://systemd.io/BOOT_LOADER_SPECIFICATION
+        https://systemd.io/DISCOVERABLE_PARTITIONS
         systemd(1)
+        systemd-cryptsetup@.service(8)
+        systemd-fstab-generator(8)
         systemd-gpt-auto-generator(8)
-        systemd.generator(7)
+        systemd-path(1)
         systemd-remount-fs.service(8)
+        systemd-udevd(8)
+        systemd.generator(7)
         systemd.mount(5)
         systemd.swap(5)
-        systemd-cryptsetup@.service(8)
-        https://systemd.io/BOOT_LOADER_INTERFACE/
+        systemd.unit(5)
     booting, boot loader
         https://uapi-group.org/specifications/specs/boot_loader_specification/
         bootup(7)
+        https://en.wikipedia.org/wiki//boot
         https://en.m.wikipedia.org/wiki/Booting
         https://en.m.wikipedia.org/wiki/Booting_process_of_Linux
         https://en.m.wikipedia.org/wiki/Bootloader
@@ -306,6 +330,8 @@ miscellaneous concepts
         https://en.m.wikipedia.org/wiki/Daemon_(computing)
     containerization
         https://en.m.wikipedia.org/wiki/Containerization_(computing)
+    fontconfig
+        https://www.freedesktop.org/software/fontconfig/fontconfig-user.html
 computer security concepts
     HMAC-SHA256
         https://en.m.wikipedia.org/wiki/HMAC
@@ -345,6 +371,15 @@ data format and representation concepts
         https://en.m.wikipedia.org/wiki/MathML
         https://developer.mozilla.org/en-US/docs/Web/MathML
 data administration, access, processing and storage concepts
+    (unspecified concept resources)
+        https://unix.stackexchange.com/questions/204068/directory-structure-vs-file-system
+    PostgreSQL
+        dropuser(1)
+        pg_archivecleanup(1)
+        pg_isready(1)
+        postgresqlrc(5)
+        psql(1)
+        user_clusters(5)
     LUKS
         https://en.m.wikipedia.org/wiki/Linux_Unified_Key_Setup
     "root partition" (?)
@@ -379,13 +414,20 @@ data administration, access, processing and storage concepts
     file
         https://en.m.wikipedia.org/wiki/Computer_file
     directory, directory hierarchy
+        https://unix.stackexchange.com/questions/567351/whats-the-difference-between-hier7-and-file-hierarchy7-man-pages
+        https://en.m.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+        https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/index.html
+        http://jdebp.uk/Softwares/nosh/guide/gazetteer.html
         https://en.m.wikipedia.org/wiki/Directory_(computing)
         http://www.pathname.com/fhs/
         https://www.debian.org/releases/stable/amd64/apcs02.en.html
         http://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.html
         http://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html
-    "find" command
+        https://specifications.freedesktop.org/basedir-spec/latest/
+    "find" command, "locate" command, "which" command
         find(1)
+        locate(1)
+        which(1)
     mounting, mount point, "mount" command
         https://en.m.wikipedia.org/wiki/Mount_(computing)
         mount(8)
@@ -462,6 +504,7 @@ hardware, hardware management and firmware concepts
     device file, special file
         https://en.m.wikipedia.org/wiki/Device_file
         mknod(1)
+        https://en.wikipedia.org/wiki//dev
     removable media
         https://en.m.wikipedia.org/wiki/Removable_media
     Zip
@@ -489,6 +532,7 @@ user management concepts
         https://askubuntu.com/questions/972319/when-should-i-use-the-tilde-during-command-line-navigation
     root directory, root file system
         https://en.m.wikipedia.org/wiki/Root_directory
+        https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03.html
     root user, superuser
         https://en.m.wikipedia.org/wiki/Superuser
     read-only file, readable file, writable file
@@ -498,6 +542,10 @@ configuration-related concepts
         machine-id(5)
     configuration
         https://en.m.wikipedia.org/wiki/Computer_configuration
+    "PGSYSCONFDIR" environment variable
+        [8]
+    "PG_CLUSTER_CONF_ROOT" environment variable
+        [8]
     "PATH" environment variable
         [3]
         https://en.m.wikipedia.org/wiki/PATH_(variable)
