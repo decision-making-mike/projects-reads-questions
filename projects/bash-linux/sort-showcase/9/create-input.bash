@@ -2,13 +2,7 @@
 
 number_of_data=100000
 seq 1 "$number_of_data" |
-    gawk \
-    '
-        {
-            print
-            print
-        }
-    ' |
+    sed 'p' |
         shuf |
             gawk \
             -v number_of_data="$number_of_data" \
