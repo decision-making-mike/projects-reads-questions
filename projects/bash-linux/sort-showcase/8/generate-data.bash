@@ -8,7 +8,7 @@ seq 1 "$number_of_data" |
             -v number_of_data="$number_of_data" \
             '
                 {
-                    if( NR == number_of_data ) printf( $0 )
+                    if( NR == 2 * number_of_data ) printf( $0 )
                     else print
                 }
             ' |
