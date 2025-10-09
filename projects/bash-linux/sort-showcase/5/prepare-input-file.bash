@@ -10,4 +10,5 @@ seq 1 "$number_of_data" |
                 if( NR == number_of_data ) printf( $0 )
                 else print
             }
-        '
+        ' \
+        > input.txt

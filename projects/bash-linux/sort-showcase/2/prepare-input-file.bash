@@ -1,4 +1,5 @@
 #!/bin/bash
 
 seq 1 100000 |
-    shuf
+    shuf \
+    > input.txt

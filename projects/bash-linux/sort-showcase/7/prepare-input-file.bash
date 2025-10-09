@@ -11,4 +11,5 @@ seq 1 "$number_of_data" |
                 else print
             }
         ' |
-            tr '\n' '\0'
+            tr '\n' '\0' \
+            > input.txt
