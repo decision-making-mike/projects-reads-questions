@@ -2,3 +2,4 @@ Zasada najmniejszego zaskoczenia – Adam, http://adam.wroclaw.pl/2015/05/zasada
 language agnostic - What is the purpose of null? - Stack Overflow, https://stackoverflow.com/questions/584507/what-is-the-purpose-of-null
 Software disenchantment @ tonsky.me, https://tonsky.me/blog/disenchantment/
 What are Linux system libraries? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/666524/what-are-linux-system-libraries
+Driver (software) - Wikipedia, https://en.m.wikipedia.org/wiki/Driver_(software)

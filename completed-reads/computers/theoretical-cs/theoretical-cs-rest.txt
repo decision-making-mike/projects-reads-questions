@@ -1,2 +1,4 @@
 big picture - What is theoretical computer science? - Theoretical Computer Science Stack Exchange, https://cstheory.stackexchange.com/questions/19636/what-is-theoretical-computer-science
 Theoretical computer science - Wikipedia, https://en.m.wikipedia.org/wiki/Theoretical_computer_science
+Kilobajt, megabajt, gigabajt, terabajt, https://informatykzakladowy.pl/kilobajt-megabajt-gigabajt-terabajt/
+programming languages - What is the technical definition of theoretical computer science? What subfields are included? - Stack Overflow, https://stackoverflow.com/questions/3429560/what-is-the-technical-definition-of-theoretical-computer-science-what-subfields

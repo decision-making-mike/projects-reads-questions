@@ -1,1 +1,3 @@
 Chris's Wiki :: blog/unix/ProcessSubstitutionWhyLate, https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessSubstitutionWhyLate
+Job Control Basics (Bash Reference Manual), https://www.gnu.org/software/bash/manual/html_node/Job-Control-Basics.html
+Job control (computing) - Wikipedia, https://en.m.wikipedia.org/wiki/Job_control_(computing)

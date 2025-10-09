@@ -1,0 +1,6 @@
+locale - Greg's Wiki, https://mywiki.wooledge.org/locale
+Locale (computer software) - Wikipedia, https://en.m.wikipedia.org/wiki/Locale_(computer_software)
+Locale - ArchWiki, https://wiki.archlinux.org/title/Locale
+What should I set my locale to and what are the implications of doing so? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/149111/what-should-i-set-my-locale-to-and-what-are-the-implications-of-doing-so
+Common Locale Data Repository - Wikipedia, https://en.m.wikipedia.org/wiki/Common_Locale_Data_Repository
+A Quick Primer On Unicode and Software Internationalization Under Linux and UNIX, https://unifont.org/unicodeprimer/

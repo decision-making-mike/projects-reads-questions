@@ -3,3 +3,4 @@ git - How do I create tag with certain commits and push it to origin? - Stack Ov
 GitHub Flow, https://githubflow.github.io/
 Git ignore BOM (prevent git diff from showing byte order mark changes) - Stack Overflow, https://stackoverflow.com/questions/27223985/git-ignore-bom-prevent-git-diff-from-showing-byte-order-mark-changes
 Using GNOME Keyring as Git Credential Helper - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking, https://blog.scottlowe.org/2016/11/21/gnome-keyring-git-credential-helper/
+The hell of Git line endings and the (not so) simple fix - Born SQL, https://bornsql.ca/blog/the-hell-of-git-line-endings-and-the-not-so-simple-fix/

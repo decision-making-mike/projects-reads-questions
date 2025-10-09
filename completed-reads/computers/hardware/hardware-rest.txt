@@ -1,2 +1,3 @@
 Who-T: xinput is not a configuration UI, https://who-t.blogspot.com/2016/12/xinput-is-not-configuration-ui.html
 NetPC - Wikipedia, https://en.m.wikipedia.org/wiki/NetPC
+How to stop brltty from claiming your USB UART interface on Linux | Koen Vervloesem - Technology Writer, https://koen.vervloesem.eu/blog/how-to-stop-brltty-from-claiming-your-usb-uart-interface-on-linux/

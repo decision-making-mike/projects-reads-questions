@@ -5,3 +5,5 @@ Named pipe - Wikipedia, https://en.m.wikipedia.org/wiki/Named_pipe
 X Input Method - Wikipedia, https://en.m.wikipedia.org/wiki/X_Input_Method
 container - What does "process accounting" mean in Linux? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/468909/what-does-process-accounting-mean-in-linux
 What are system libraries? : r/linuxquestions, https://www.reddit.com/r/linuxquestions/comments/r1dw76/what_are_system_libraries/?sort=old
+Linux kernel oops - Wikipedia, https://en.m.wikipedia.org/wiki/Linux_kernel_oops
+Dlaczego Windows 95 nie miał domyślnej tapety, https://informatykzakladowy.pl/dlaczego-windows-95-nie-mial-domyslnej-tapety/

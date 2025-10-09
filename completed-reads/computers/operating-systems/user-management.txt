@@ -1,2 +1,2 @@
-Simple Desktop Display Manager - Wikipedia, https://en.m.wikipedia.org/wiki/Simple_Desktop_Display_Manager
 logs - Why are utmp, wtmp and btmp called as they are? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/127211/why-are-utmp-wtmp-and-btmp-called-as-they-are
+Simple Desktop Display Manager - Wikipedia, https://en.m.wikipedia.org/wiki/Simple_Desktop_Display_Manager

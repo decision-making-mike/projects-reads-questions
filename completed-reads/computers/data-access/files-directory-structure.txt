@@ -5,3 +5,4 @@ bash - Which file descriptor numbers are safe to use in (POSIX) shell scripts? -
 linux - What's the difference between 'hier(7)' and 'file-hierarchy(7)' man pages? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/567351/whats-the-difference-between-hier7-and-file-hierarchy7-man-pages
 hier(7) - Linux manual page, https://man7.org/linux/man-pages/man7/hier.7.html
 file-hierarchy(7) - Linux manual page, https://man7.org/linux/man-pages/man7/file-hierarchy.7.html
+Filesystem Hierarchy Standard - Wikipedia, https://en.m.wikipedia.org/wiki/Filesystem_Hierarchy_Standard

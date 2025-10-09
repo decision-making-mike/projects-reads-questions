@@ -8,3 +8,8 @@ ubuntu - Error message here end Kernel Panic - not syncing: attempted to kill in
 Kernel panic - not syncing: Attempted to kill init! exitcode=0x00007f00 - Linux Mint Forums, https://forums.linuxmint.com/viewtopic.php?t=336935
 initng – or how to boot Linux faster – OSnews, https://www.osnews.com/story/10513/initng-or-how-to-boot-linux-faster/
 FHS: what is "the map installer"? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/782077/fhs-what-is-the-map-installer
+systemd - What is the purpose of grub-common.service? - Ask Ubuntu, https://askubuntu.com/questions/767513/what-is-the-purpose-of-grub-common-service
+startup - How do I improve boot speed? - Ask Ubuntu, https://askubuntu.com/questions/10290/how-do-i-improve-boot-speed
+16.04 - How to speed up boot time of Ubuntu when you find a possible cause in "dmesg" output? - Ask Ubuntu, https://askubuntu.com/questions/762932/how-to-speed-up-boot-time-of-ubuntu-when-you-find-a-possible-cause-in-dmesg-ou
+boot - Too much bootup time - Ask Ubuntu, https://askubuntu.com/questions/1466044/too-much-bootup-time
+systemd-analyze blame doesn't say what you think it does : r/linux, https://www.reddit.com/r/linux/comments/1kcg7b0/systemdanalyze_blame_doesnt_say_what_you_think_it/?sort=old
