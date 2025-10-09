@@ -2,7 +2,7 @@
 
 number_of_data=100000
 seq 1 "$number_of_data" |
-    tee /dev/stdout |
+    sed 'p' | # Duplicate the line.
         shuf |
             gawk \
             -v number_of_data="$number_of_data" \
