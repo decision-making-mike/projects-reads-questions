@@ -35,7 +35,7 @@ gawk '
 
             $1 = ""
             # We use substr() to omit one character, i.e. a space, the default output field separator.
-            print substr( $0 , 2 )
+            printf( substr( $0 , 2 ) "\x00" )
         }
     ' |
     sed 's/\x00$//' > output.txt
