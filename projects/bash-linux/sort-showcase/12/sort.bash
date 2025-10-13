@@ -19,7 +19,7 @@ gawk '
         }
     }
 ' input[1-4].txt |
-    sort -u -r -z -n -t ' ' -k 2 |
+    sort -u -r -z -n -t ' ' -k 2,2 |
     gawk '
         BEGIN {
             RS = "\x00"
