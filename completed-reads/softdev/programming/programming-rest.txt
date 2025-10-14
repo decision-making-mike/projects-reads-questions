@@ -5,3 +5,4 @@ The Simplest Thing that Could Possibly Work, https://www.artima.com/articles/the
 Refleksje o programowaniu, https://www.linkedin.com/pulse/refleksje-o-programowaniu-informatykzakladowy-picif
 Scroll container - Glossary | MDN, https://developer.mozilla.org/en-US/docs/Glossary/Scroll_container
 Scroll snap - Glossary | MDN, https://developer.mozilla.org/en-US/docs/Glossary/Scroll_snap
+Schwartzian transform - Wikipedia, https://en.wikipedia.org/wiki/Schwartzian_transform

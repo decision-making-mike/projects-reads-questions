@@ -11,3 +11,6 @@ Blob URI scheme - Wikipedia, https://en.m.wikipedia.org/wiki/Blob_URI_scheme
 Certificate and Key Widgets, http://stef.thewalter.net/certificate-and-key-widgets.html
 Windows Managers vs Login Managers Vs Display Managers Vs Desktop Environment - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/20385/windows-managers-vs-login-managers-vs-display-managers-vs-desktop-environment
 Ganglia (software) - Wikipedia, https://en.m.wikipedia.org/wiki/Ganglia_(software)
+Polska Infrastruktura Gridowa PL-Grid – Wikipedia, wolna encyklopedia, https://pl.wikipedia.org/wiki/Polska_Infrastruktura_Gridowa_PL-Grid
+Krajowy Klaster Linuksowy – Wikipedia, wolna encyklopedia, https://pl.wikipedia.org/wiki/Krajowy_Klaster_Linuksowy
+getent - Wikipedia, https://en.wikipedia.org/wiki/Getent
