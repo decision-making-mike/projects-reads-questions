@@ -25,4 +25,4 @@ graph {
 
 ## Missing READMEs addition
 
-Add missing READMEs to all projects. This way the projects will be easier to navigate for a casual visitor.
+Add missing READMEs to all projects. This way the projects shall be easier to navigate for a casual visitor.
