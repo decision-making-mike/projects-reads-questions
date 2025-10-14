@@ -12,3 +12,4 @@ Under what license may I use screenshots and videos of the gameplay of Minetest 
 Visual viewport scale changes after reloading the page multiple times quickly [417621250] - Chromium, https://issues.chromium.org/issues/417621250
 word order - Why does "not" come after "it" in "he knows it not"? - English Language & Usage Stack Exchange, https://english.stackexchange.com/questions/627737/why-does-not-come-after-it-in-he-knows-it-not
 linux - Why doesn't "seq 1000000 | tee /dev/stdout" work as expected? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/800331/why-doesnt-seq-1000000-tee-dev-stdout-work-as-expected
+Why is "1" colored differently than "-4" in "ls -d [1-4]" with Bash syntax highlighting? - Vi and Vim Stack Exchange, https://vi.stackexchange.com/questions/47273/why-is-1-colored-differently-than-4-in-ls-d-1-4-with-bash-syntax-highl
