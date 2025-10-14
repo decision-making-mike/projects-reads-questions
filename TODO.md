@@ -26,3 +26,13 @@ graph {
 ## Missing READMEs addition
 
 Add missing READMEs to all projects. This way the projects shall be easier to navigate for a casual visitor.
+
+## Bash scripts file extension unification
+
+Currently some Bash scripts have the `bash` file extension, and other have the `sh` file extension. The extensions should be unified, for the visitor of their directories to be sure they are all Bash scripts, and not that some are Bash scripts, and some Bourne or ash scripts (or even "generic" shell scripts, whatever it might mean). I don't know if it be better to use `bash`, `sh`, some other extension, or no extension at all. Example resources to examine are
+
+- https://en.m.wikipedia.org/wiki/Filename_extension
+- https://superuser.com/questions/813691/is-there-a-disadvantage-to-not-using-text-file-extensions
+- https://unix.stackexchange.com/questions/182882/use-sh-or-bash-extension-for-bash-scripts
+- https://askubuntu.com/questions/803434/do-file-extensions-have-any-purpose-in-linux
+- https://www.google.com/search?q=Why+shouldn%27t+I+give+extensions+to+files+on+UNIX%3F
