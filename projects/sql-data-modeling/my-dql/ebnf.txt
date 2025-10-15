@@ -1,22 +1,22 @@
-query clause =
-    relation clause
+query_clause =
+    relation_clause
     [
-        whitespace list
-        tuple restriction clause
+        whitespace_list
+        tuple_restriction_clause
     ]
     [
-        whitespace list
-        attribute restriction clause
+        whitespace_list
+        attribute_restriction_clause
     ]
 
-relation clause =
+relation_clause =
     "get"
-    whitespace list
+    whitespace_list
     "relations"
-    whitespace list
-    relation names list
+    whitespace_list
+    relation_names_list
 
-whitespace list =
+whitespace_list =
     {
         space
         |
@@ -35,91 +35,91 @@ newline =
     "
 "
 
-relation names list =
-    relation name
+relation_names_list =
+    relation_name
     {
-        whitespace list
+        whitespace_list
         ","
-        whitespace list
-        relation name
+        whitespace_list
+        relation_name
     }
 
-tuple restriction clause =
+tuple_restriction_clause =
     "then"
-    whitespace list
+    whitespace_list
     "restrict"
-    whitespace list
+    whitespace_list
     "tuples"
-    whitespace list
+    whitespace_list
     "to"
-    whitespace list
-    condition conjunction clauses list
+    whitespace_list
+    condition_conjunction_clauses_list
 
-condition conjunction clauses list =
-    condition disjunction clauses list
+condition_conjunction_clauses_list =
+    condition_disjunction_clauses_list
     {
-        whitespace list
+        whitespace_list
         "and"
-        whitespace list
-        condition disjunction clauses list
+        whitespace_list
+        condition_disjunction_clauses_list
     }
 
-condition disjunction clauses list =
-    condition negation clause
+condition_disjunction_clauses_list =
+    condition_negation_clause
     {
-        whitespace list
+        whitespace_list
         "or"
-        whitespace list
-        condition negation clause
+        whitespace_list
+        condition_negation_clause
     }
 
-condition negation clause =
+condition_negation_clause =
     [
         "not"
-        whitespace list
+        whitespace_list
     ]
-    condition clause
+    condition_clause
 
-condition clause =
-    qualified attribute name
-    whitespace list
+condition_clause =
+    qualified_attribute_name
+    whitespace_list
     "equal"
-    whitespace list
-    qualified attribute name
+    whitespace_list
+    qualified_attribute_name
 
-qualified attribute name =
-    attribute name
-    whitespace list
+qualified_attribute_name =
+    attribute_name
+    whitespace_list
     "in"
-    whitespace list
-    relation name
+    whitespace_list
+    relation_name
 
-attribute name =
+attribute_name =
     '"'
     /[a-z_]+/
     '"'
 
-relation name =
+relation_name =
     '"'
     /[a-z_]+/
     '"'
 
-attribute restriction clause =
+attribute_restriction_clause =
     "then"
-    whitespace list
+    whitespace_list
     "restrict"
-    whitespace list
+    whitespace_list
     "attributes"
-    whitespace list
+    whitespace_list
     "to"
-    whitespace list
-    qualified attribute names list
+    whitespace_list
+    qualified_attribute_names_list
 
-qualified attribute names list =
-    qualified attribute name
+qualified_attribute_names_list =
+    qualified_attribute_name
     {
-        whitespace list
+        whitespace_list
         ","
-        whitespace list
-        qualified attribute name
+        whitespace_list
+        qualified_attribute_name
     }
