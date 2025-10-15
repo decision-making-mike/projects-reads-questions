@@ -17,13 +17,18 @@ relation_clause =
     relation_names_list
 
 whitespace_list =
+    space
+    |
+    tab
+    |
+    newline
     {
         space
         |
         tab
         |
         newline
-    }-
+    }
 
 space =
     " "
