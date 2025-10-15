@@ -1,4 +1,4 @@
-# Business simulation project
+# "Business simulation" project
 
 This project simulates a business.
 
