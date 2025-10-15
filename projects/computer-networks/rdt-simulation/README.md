@@ -1,4 +1,4 @@
-# RDT simulation project
+# "RDT simulation" project
 
 This project simulates the RDT, that is, Reliable Data Transfer. For more information, see [the Wikipedia article on RDT](https://en.wikipedia.org/wiki/Reliable_Data_Transfer).
 
