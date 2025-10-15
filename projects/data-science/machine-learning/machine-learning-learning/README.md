@@ -8,8 +8,8 @@ This project supports my learning of machine learning.
 
 To generate a diagram, you need
 
-- GNU Awk 5.0.1 (or higher version),
-- graphviz version 13.1.0 (or higher version).
+- GNU AWK 5.0.1 (or higher version),
+- Graphviz 13.1.0 (or higher version).
 
 ### Generating
 
