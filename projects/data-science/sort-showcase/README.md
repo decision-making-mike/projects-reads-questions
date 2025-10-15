@@ -1,7 +1,5 @@
 # "Sort showcase" project
 
-## Project's overview
-
 This project showcases how I can sort data.
 
 ## Project's goal
