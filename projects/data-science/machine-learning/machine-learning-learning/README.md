@@ -1,5 +1,7 @@
 # "Machine learning learning" project
 
+This project supports my learning of machine learning.
+
 ## Generating diagrams
 
 ### Prerequites
