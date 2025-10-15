@@ -1,8 +1,0 @@
-day=51
-money=947
-loans=1000
-savings=0
-driver_count=0
-manager_count=0
-car_count=18
-last_day_result=-18
