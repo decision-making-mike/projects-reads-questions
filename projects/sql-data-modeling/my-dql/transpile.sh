@@ -406,6 +406,7 @@ parse_qualified_attribute_names_list () {
 }
 
 # We substitute newlines beforehand since various commands can just stop on them. If we did not do this here, we would need to handle newlines for every command separately. Thus we break the nice one-to-one correspondence between the "parse_whitespace_list" function and the EBNF, but we save overall code simplicity.
+# TODO. October 15, 2025. Why do I not remove spaces and tabs at the end of the input?
 string="$(
     tr '\n' ' ' \
         | sed 's/^[ \t]*//' \
