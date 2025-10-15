@@ -1,3 +1,3 @@
-# Snow removal simulation project
+# "Snow removal simulation" project
 
 This project simulates snow removal.
