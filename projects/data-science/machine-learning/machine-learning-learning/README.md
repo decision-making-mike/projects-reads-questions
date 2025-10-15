@@ -1,4 +1,4 @@
-# My machine learning learning project
+# "Machine learning learning" project
 
 ## Generating diagrams
 
