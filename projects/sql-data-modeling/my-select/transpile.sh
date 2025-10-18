@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This is a transpiler from my DQL to SQL's DQL.
+# This is a transpiler from the "my select" language to SQL's "select" statement.
 
 # "string" restoring. In case a function updates "string", if the function fails, we need to be sure that "string" is the same as if the function was not executed.
 
