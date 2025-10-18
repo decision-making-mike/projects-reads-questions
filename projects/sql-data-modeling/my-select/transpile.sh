@@ -106,6 +106,7 @@ parse_relation_names_list () {
                     }
             done
 
+            # TODO. October 16, 2025. That's too smart for me now. Why do I revert "string" only when "failures_count" is even (much as that string reversion is in whole too smart for me now)?
             if (( failures_count % 2 != 0 ))
             then string="$tmp"
             fi
@@ -272,6 +273,7 @@ parse_negation_clause () {
         || current_sql_negation="$current_sql_negation_tmp"
 }
 
+# TODO. October 16, 2025. Why did I name it "sql_condition", and not "condition"? It parses "my select" conditions, not SQL ones.
 parse_sql_condition () {
     local tmp="$string"
     local current_sql_condition_tmp="$current_sql_condition"
