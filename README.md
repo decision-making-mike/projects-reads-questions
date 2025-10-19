@@ -16,4 +16,8 @@ in the root directory of this repository (i.e. the directory this `README.md` fi
 
 If you instead prefer a less textual, and more graphical diagram, I'm providing one below. The graph underlying the diagram is being generated automatically, is in the [DOT language](https://en.m.wikipedia.org/wiki/DOT_(graph_description_language)), and the diagram is rendered with the [Graphviz software](https://en.m.wikipedia.org/wiki/Graphviz).
 
-![A diagram depicting how completed reads are organized](completed-reads-organization.png)
+![A diagram depicting how completed reads are organized (tree version)](completed-reads-organization.png)
+
+And here you can see another, table version of the diagram. It is one big [HTML-like label](https://graphviz.org/doc/info/shapes.html#html).
+
+![A diagram depicting how completed reads are organized (table version)](completed-reads-organization-2.png)
