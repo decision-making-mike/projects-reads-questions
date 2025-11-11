@@ -10,3 +10,5 @@ What is ISDN? | Vodafone Business, https://n.vodafone.ie/business/smart-business
 Terminal (telecommunication) - Wikipedia, https://en.m.wikipedia.org/wiki/Terminal_(telecommunication)
 Supplementary service codes - Wikipedia, https://en.m.wikipedia.org/wiki/Supplementary_service_codes
 ubuntu - Why do I need to enter a password for the Default Keyring to unlock? - Super User, https://superuser.com/questions/43132/why-do-i-need-to-enter-a-password-for-the-default-keyring-to-unlock
+Safe Browsing: Protecting more than 3 billion devices worldwide, automatically, https://blog.google/technology/safety-security/safe-browsing-protecting-more-3-billion-devices-worldwide-automatically/
+Google Safe Browsing - Wikipedia, https://en.wikipedia.org/wiki/Google_Safe_Browsing

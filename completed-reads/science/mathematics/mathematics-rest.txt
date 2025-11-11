@@ -13,3 +13,5 @@ Is mathematics like learning a language for anyone? : r/math, https://www.reddit
 secondary education - Teaching Mathematics to a Younger Sibling - Mathematics Educators Stack Exchange, https://matheducators.stackexchange.com/questions/18986/teaching-mathematics-to-a-younger-sibling
 functions - What is the purpose of the Codomain? - Mathematics Stack Exchange, https://math.stackexchange.com/questions/1445370/what-is-the-purpose-of-the-codomain
 The Many Facets of Math - The Art of Mathematics | Podcast on Spotify, https://open.spotify.com/episode/5dg8hfikETqpMI6egzEkCF
+More bc weirdness, https://www.johndcook.com/blog/2019/09/04/more-bc-weirdness/
+Three surprises with Unix utility bc, https://www.johndcook.com/blog/2010/07/14/bc-math-library/

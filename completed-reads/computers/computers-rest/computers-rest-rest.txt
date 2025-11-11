@@ -14,3 +14,5 @@ Ganglia (software) - Wikipedia, https://en.m.wikipedia.org/wiki/Ganglia_(softwar
 Polska Infrastruktura Gridowa PL-Grid – Wikipedia, wolna encyklopedia, https://pl.wikipedia.org/wiki/Polska_Infrastruktura_Gridowa_PL-Grid
 Krajowy Klaster Linuksowy – Wikipedia, wolna encyklopedia, https://pl.wikipedia.org/wiki/Krajowy_Klaster_Linuksowy
 getent - Wikipedia, https://en.wikipedia.org/wiki/Getent
+Why does LibrOffice starts so slow? - English - Ask LibreOffice, https://ask.libreoffice.org/t/why-does-libroffice-starts-so-slow/46960/21
+Control-X - Wikipedia, https://en.wikipedia.org/wiki/Control-X

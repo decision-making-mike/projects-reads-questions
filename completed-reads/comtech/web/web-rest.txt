@@ -1,2 +1,9 @@
 X-Robots-Tag - HTTP | MDN, https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/X-Robots-Tag
 Pocket (service) - Wikipedia, https://en.m.wikipedia.org/wiki/Pocket_(service)
+Google Safe Browsing Alerts Network Admins About Malware Distribution Domains | PCWorld, https://www.pcworld.com/article/472529/google_safe_browsing_alerts_network_admins_about_malware_distribution_domains.html
+Google Safe Browsing | Jon Oberheide, https://jon.oberheide.org/blog/2006/11/13/google-safe-browsing/
+Google Safe Browsing - What it Means for Your Website, https://www.lexiconn.com/blog/2009/08/google-safe-browsing/
+Safe Browsing with the Google Safe Browsing API - On Engineering - Chris Alexander, https://chris-alexander.co.uk/on-engineering/dev/safe-browsing-with-the-google-safe-browsing-api/
+Overview  |  Google Safe Browsing  |  Google for Developers, https://developers.google.com/safe-browsing/reference
+Google Safe Browsing Makes the Innocent Look Guilty | PCWorld, https://web.archive.org/web/20210623154943/https://www.pcworld.com/article/192808/google_safe_browsing_makes_the_innocent_look_guilty.html
+Przeglądarka cię chroni, ale nie śledzi, https://informatykzakladowy.pl/przegladarka-cie-chroni-ale-nie-sledzi/

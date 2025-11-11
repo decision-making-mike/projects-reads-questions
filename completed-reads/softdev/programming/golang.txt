@@ -1,0 +1,3 @@
+modelsheet.jpg (1280×719), https://go.dev/doc/gopher/modelsheet.jpg
+Lazy Hacker Babble: Building GUI applications with Go (Golang), https://blog.lazyhacker.com/2020/11/building-gui-applications-with-go-golang.html?m=1
+The Case Against Third Party Libraries | Gopher Academy Blog, https://blog.gopheracademy.com/advent-2014/case-against-3pl/

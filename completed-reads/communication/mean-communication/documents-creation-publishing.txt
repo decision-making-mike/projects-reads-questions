@@ -14,3 +14,9 @@ germany - Why did German typewriters not use Fraktur? - History Stack Exchange, 
 Fonts on Linux, Chapter One: Changing Default and Fallback Fonts with Fontconfig - dt.iki.fi, https://dt.iki.fi/fontconfig-1
 Can evince pdf reader be setup to do larger zoom than 400%? - Ask Ubuntu, https://askubuntu.com/questions/1154608/can-evince-pdf-reader-be-setup-to-do-larger-zoom-than-400
 Introducing Spotify Mix, Our New and Exclusive Font — Spotify, https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/
+fonts-conf, https://www.freedesktop.org/software/fontconfig/fontconfig-user.html
+fc-match(1) — fontconfig — Debian trixie — Debian Manpages, https://manpages.debian.org/trixie/fontconfig/fc-match.1.en.html
+Glyph - Wikipedia, https://en.wikipedia.org/wiki/Glyph
+PostScript fonts - Wikipedia, https://en.wikipedia.org/wiki/PostScript_fonts
+Computer font - Wikipedia, https://en.wikipedia.org/wiki/Computer_font
+Font rendering config on Linux - What they didn't tell you - quitesimple, https://quitesimple.org/page/fontconfig-linux-what-they-didnt-tell-you

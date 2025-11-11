@@ -15,7 +15,7 @@ licensing - Can I mix CC-BY-SA 3.0 and CC-BY-SA 4.0 artwork? How to license outp
 Font license search - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/213790/font-license-search
 Creative Commons Attribution Share Alike 3.0 Unported | Software Package Data Exchange (SPDX), https://spdx.org/licenses/CC-BY-SA-3.0.html
 License | Graphviz, https://graphviz.org/license/
-SIL Open Font License - Wikipedia, https://en.m.wikipedia.org/wiki/SIL_Open_Font_License
+SIL Open Font License - Wikipedia, https://en.wikipedia.org/wiki/SIL_Open_Font_License
 Commons:Copyright rules by territory/Poland - Wikimedia Commons, https://commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Poland
 SIL Open Font License Official Text, https://openfontlicense.org/open-font-license-official-text/
 Prawo autorskie do cytatu, https://www.legalnakultura.pl/pl/prawo-w-kulturze/prawnik-odpowiada-zapytaj-prawnika/cytat/318,prawo-autorskie-do-cytatu#gsc.tab=0

@@ -1,6 +1,7 @@
 jq Primer: Munging JSON Data - Andrew Gibiansky, https://andrew.gibiansky.com/blog/command-line/jq-primer/
 Tutorial, https://jqlang.org/tutorial/
-jq (programming language) - Wikipedia, https://en.m.wikipedia.org/wiki/Jq_(programming_language)
+jq (programming language) - Wikipedia, https://en.wikipedia.org/wiki/Jq_(programming_language)
 Awk - A Tutorial and Introduction - by Bruce Barnett, https://www.grymoire.com/Unix/Awk.html
 JQ Select Explained: Selecting elements from JSON with Examples - Earthly Blog, https://earthly.dev/blog/jq-select/
 sort invocation (GNU Coreutils 9.8), https://www.gnu.org/software/coreutils/manual/html_node/sort-invocation.html
+regex - Best modern text parsing? AKA When to use Lex and Yacc? - Stack Overflow, https://stackoverflow.com/questions/832033/best-modern-text-parsing-aka-when-to-use-lex-and-yacc

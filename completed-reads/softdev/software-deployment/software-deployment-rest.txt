@@ -1,0 +1,4 @@
+Semantic Versioning 2.0.0 | Semantic Versioning, https://semver.org/
+How to Build Vim From Scratch - Introduction, https://www.homecooked.nl/posts/2016-08-15-how-to-build-vim-from-scratch/
+Building | Graphviz, https://graphviz.org/doc/build.html
+Why it's hard to trust software, but you mostly have to anyway, https://educatedguesswork.org/posts/ensuring-software-provenance/

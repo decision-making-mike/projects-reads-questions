@@ -20,3 +20,4 @@ Vim (text editor) - Wikipedia, https://en.m.wikipedia.org/wiki/Vim_(text_editor)
 Vim command window | Arabesque, https://blog.sanctum.geek.nz/vim-command-window/
 vim - What are the typical use cases for vi? - Stack Overflow, https://stackoverflow.com/questions/1310661/what-are-the-typical-use-cases-for-vi
 Vim 6.4 Released - Slashdot, https://slashdot.org/comments.pl?sid=165492&cid=13808398
+Faster copy to clipboard in Vim | Seblog, https://seblog.nl/2022/03/16/2/yank-to-system-clipboard

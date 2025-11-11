@@ -4,3 +4,12 @@ GitHub Flow, https://githubflow.github.io/
 Git ignore BOM (prevent git diff from showing byte order mark changes) - Stack Overflow, https://stackoverflow.com/questions/27223985/git-ignore-bom-prevent-git-diff-from-showing-byte-order-mark-changes
 Using GNOME Keyring as Git Credential Helper - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking, https://blog.scottlowe.org/2016/11/21/gnome-keyring-git-credential-helper/
 The hell of Git line endings and the (not so) simple fix - Born SQL, https://bornsql.ca/blog/the-hell-of-git-line-endings-and-the-not-so-simple-fix/
+Advanced Git, Chapter 3: Stashes | Kodeco, https://www.kodeco.com/books/advanced-git/v1.0/chapters/3-stashes
+How HEAD works in git, https://jvns.ca/blog/2024/03/08/how-head-works-in-git/
+DevOps - Git Internals for Visual Studio Developers | Microsoft Learn, https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/june/devops-git-internals-for-visual-studio-developers
+DevOps - Git Internals: Architecture and Index Files | Microsoft Learn, https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/august/devops-git-internals-architecture-and-index-files
+Editor's Note - Grokking Git | Microsoft Learn, https://learn.microsoft.com/en-us/archive/msdn-magazine/2017/june/editor-s-note-grokking-git
+Git - Stashing and Cleaning, https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning
+How to Fix Git Stash Merge Conflicts, https://www.themoderncoder.com/fix-git-stash-conflicts/
+How to stage a rename without subsequent edits in git? - Stack Overflow, https://stackoverflow.com/questions/29706086/how-to-stage-a-rename-without-subsequent-edits-in-git
+github actions - How to count the number of pushed commits to a branch in git? - Stack Overflow, https://stackoverflow.com/questions/75901357/how-to-count-the-number-of-pushed-commits-to-a-branch-in-git

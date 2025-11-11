@@ -28,3 +28,7 @@ bash - Is it safe to type another command into STDIN while the previous command 
 How to measure GUI app startup with time(1), https://www.linuxquestions.org/questions/linux-general-1/how-to-measure-gui-app-startup-with-time-1-a-795028/
 linux - Does piping executes commands in parallel? - Super User, https://superuser.com/questions/1455438/does-piping-executes-commands-in-parallel
 nice invocation (GNU Coreutils 9.8), https://www.gnu.org/software/coreutils/manual/html_node/nice-invocation.html
+shell - Use .sh or .bash extension for Bash scripts? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/182882/use-sh-or-bash-extension-for-bash-scripts
+history - Why is the default choice for -I argument '{}'? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/85634/why-is-the-default-choice-for-i-argument
+File extensions for unix shell scripts - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/31760/file-extensions-for-unix-shell-scripts
+An official standard / convention for a file extension for shell scripts to source - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/299618/an-official-standard-convention-for-a-file-extension-for-shell-scripts-to-sour

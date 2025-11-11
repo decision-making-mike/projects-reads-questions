@@ -7,3 +7,5 @@ Repositories/Ubuntu - Community Help Wiki, https://help.ubuntu.com/community/Rep
 What are PPAs and how do I use them? - Ask Ubuntu, https://askubuntu.com/questions/4983/what-are-ppas-and-how-do-i-use-them
 64 bit - is x86_64 a x86 or x64? - Ask Ubuntu, https://askubuntu.com/questions/201412/is-x86-64-a-x86-or-x64
 Flatpak - Wikipedia, https://en.m.wikipedia.org/wiki/Flatpak
+dpkg - How is the desired status in the Debian Package Manager determined? - Ask Ubuntu, https://askubuntu.com/questions/947192/how-is-the-desired-status-in-the-debian-package-manager-determined
+what is .ICEAuthority file in opensuse 11.2 - Server Fault, https://serverfault.com/questions/119580/what-is-iceauthority-file-in-opensuse-11-2

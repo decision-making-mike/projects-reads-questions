@@ -6,3 +6,6 @@ linux - What's the difference between 'hier(7)' and 'file-hierarchy(7)' man page
 hier(7) - Linux manual page, https://man7.org/linux/man-pages/man7/hier.7.html
 file-hierarchy(7) - Linux manual page, https://man7.org/linux/man-pages/man7/file-hierarchy.7.html
 Filesystem Hierarchy Standard - Wikipedia, https://en.m.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+Filename extension - Wikipedia, https://en.wikipedia.org/wiki/Filename_extension
+Is there a disadvantage to not using text file extensions? - Super User, https://superuser.com/questions/813691/is-there-a-disadvantage-to-not-using-text-file-extensions
+Do file extensions have any purpose in Linux? - Ask Ubuntu, https://askubuntu.com/questions/803434/do-file-extensions-have-any-purpose-in-linux

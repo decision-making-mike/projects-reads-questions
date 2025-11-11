@@ -7,3 +7,6 @@ container - What does "process accounting" mean in Linux? - Unix & Linux Stack E
 What are system libraries? : r/linuxquestions, https://www.reddit.com/r/linuxquestions/comments/r1dw76/what_are_system_libraries/?sort=old
 Linux kernel oops - Wikipedia, https://en.m.wikipedia.org/wiki/Linux_kernel_oops
 Dlaczego Windows 95 nie miał domyślnej tapety, https://informatykzakladowy.pl/dlaczego-windows-95-nie-mial-domyslnej-tapety/
+z/VM - Wikipedia, https://en.wikipedia.org/wiki/Z/VM
+Introducing Canonical Academy, https://canonical.com/blog/introducing-canonical-academy
+Why wasn't Windows built on top of Unix? | Microsoft Learn, https://learn.microsoft.com/en-us/shows/one-dev-minute/why-wasnt-windows-built-on-top-of-unix--one-dev-question-with-larry-osterman

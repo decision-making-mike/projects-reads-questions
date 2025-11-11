@@ -5,3 +5,5 @@ Dark Matter Developers: The Unseen 99% - Scott Hanselman's Blog, https://www.han
 Rust for Linux Maintainer Steps Down in Frustration With 'Nontechnical Nonsense' - Slashdot, https://m.slashdot.org/story/432648
 Comparing tag trends with our Most Loved programming languages - Stack Overflow, https://stackoverflow.blog/2023/01/26/comparing-tag-trends-with-our-most-loved-programming-languages/
 Ligatures in programming fonts | Butterick’s Practical Typography, https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html
+What is data-driven programming? - Stack Overflow, https://stackoverflow.com/questions/1065584/what-is-data-driven-programming
+Web Development Has Become Too Hard, https://www.shlomifish.org/enough-with-sec/web-devel-has-become-too-hard.xhtml

@@ -1,0 +1,1 @@
+linux - Is there a difference between file permissions and mode? - Unix & Linux Stack Exchange, https://unix.stackexchange.com/questions/748387/is-there-a-difference-between-file-permissions-and-mode

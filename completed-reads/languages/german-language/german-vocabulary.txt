@@ -8,4 +8,4 @@ salutation - Was ist die korrekte Anrede in E-Mails an Personen, die man nicht p
 gender - Der, die oder das E-Mail? - German Language Stack Exchange, https://german.stackexchange.com/questions/2141/der-die-oder-das-e-mail
 translation - How would you translate "mind you" in German - German Language Stack Exchange, https://german.stackexchange.com/questions/4615/how-would-you-translate-mind-you-in-german?rq=1
 German Q&A: Entschuldigung VS Tut mir Leid (+ Free German Essential Kit!) - YouTube, https://www.youtube.com/watch?v=BNPLy91zlMI
-gutschreiben – Wiktionary, https://de.m.wiktionary.org/wiki/gutschreiben
+gutschreiben – Wiktionary, https://de.wiktionary.org/wiki/gutschreiben

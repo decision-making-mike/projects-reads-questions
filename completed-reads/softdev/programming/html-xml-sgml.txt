@@ -1,0 +1,2 @@
+Using the viewport meta element - HTML: HyperText Markup Language | MDN, https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Viewport_meta_element
+Understanding quirks and standards modes - HTML: HyperText Markup Language | MDN, https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Quirks_mode_and_standards_mode

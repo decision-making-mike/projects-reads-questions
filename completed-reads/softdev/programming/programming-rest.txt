@@ -6,3 +6,8 @@ Refleksje o programowaniu, https://www.linkedin.com/pulse/refleksje-o-programowa
 Scroll container - Glossary | MDN, https://developer.mozilla.org/en-US/docs/Glossary/Scroll_container
 Scroll snap - Glossary | MDN, https://developer.mozilla.org/en-US/docs/Glossary/Scroll_snap
 Schwartzian transform - Wikipedia, https://en.wikipedia.org/wiki/Schwartzian_transform
+Very high-level programming language - Wikipedia, https://en.wikipedia.org/wiki/Very_high-level_programming_language
+How complex a program can be without variables? - Software Engineering Stack Exchange, https://softwareengineering.stackexchange.com/questions/344956/how-complex-a-program-can-be-without-variables
+Interactive programming - Wikipedia, https://en.wikipedia.org/wiki/Interactive_programming
+Why you should reconsider using third-party JavaScript libraries | by Paul Sweeney | Medium, https://medium.com/@PepsRyuu/why-you-should-reconsider-using-third-party-javascript-libraries-fc9787b3fb44
+Pango - Wikipedia, https://en.wikipedia.org/wiki/Pango

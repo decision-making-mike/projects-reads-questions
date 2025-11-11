@@ -63,3 +63,4 @@ SQL co-creator embraces NoSQL • The Register, https://www.theregister.com/2024
 Nowoczesne czy klasyczne hurtownie danych? - YouTube, https://m.youtube.com/watch?v=P5yzgqzdkP8
 user_clusters(5) — postgresql-client-common — Debian unstable — Debian Manpages, https://manpages.debian.org/unstable/postgresql-client-common/user_clusters.5.en.html
 pg_wrapper(1) — postgresql-client-common — Debian unstable — Debian Manpages, https://manpages.debian.org/unstable/postgresql-client-common/pg_wrapper.1.en.html
+Data query language - Wikipedia, https://en.wikipedia.org/wiki/Data_query_language
