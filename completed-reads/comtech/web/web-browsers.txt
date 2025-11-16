@@ -4,3 +4,4 @@ About the keyring used in Firefox - Linux Mint Forums, https://forums.linuxmint.
 Why does Chrome ask for my GNOME keyring (Seahorse) password? - Super User, https://superuser.com/questions/311216/why-does-chrome-ask-for-my-gnome-keyring-seahorse-password
 Keyring unlock prompt is unnecessarily annoying -- and phishable [41394658] - Chromium, https://issues.chromium.org/issues/41394658
 How does built-in Phishing and Malware Protection work? | Firefox Help, https://support.mozilla.org/en-US/kb/how-does-phishing-and-malware-protection-work
+What's the difference between "Normal Reload", "Hard Reload", and "Empty Cache and Hard Reload" in Chrome? - Stack Overflow, https://stackoverflow.com/questions/14969315/whats-the-difference-between-normal-reload-hard-reload-and-empty-cache-a

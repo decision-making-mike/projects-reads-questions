@@ -20,3 +20,7 @@ Glyph - Wikipedia, https://en.wikipedia.org/wiki/Glyph
 PostScript fonts - Wikipedia, https://en.wikipedia.org/wiki/PostScript_fonts
 Computer font - Wikipedia, https://en.wikipedia.org/wiki/Computer_font
 Font rendering config on Linux - What they didn't tell you - quitesimple, https://quitesimple.org/page/fontconfig-linux-what-they-didnt-tell-you
+typography - What is the difference between a font and a typeface? - Graphic Design Stack Exchange, https://graphicdesign.stackexchange.com/questions/12717/what-is-the-difference-between-a-font-and-a-typeface
+OTF Font appears empty in FontForge - Stack Overflow, https://stackoverflow.com/questions/72422254/otf-font-appears-empty-in-fontforge
+TTF Font appears empty in FontForge · Issue #2906 · fontforge/fontforge, https://github.com/fontforge/fontforge/issues/2906
+fonts - Is Typeface and Type Family the same thing? - Graphic Design Stack Exchange, https://graphicdesign.stackexchange.com/questions/71227/is-typeface-and-type-family-the-same-thing

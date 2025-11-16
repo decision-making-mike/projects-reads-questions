@@ -16,3 +16,4 @@ Krajowy Klaster Linuksowy – Wikipedia, wolna encyklopedia, https://pl.wikipedi
 getent - Wikipedia, https://en.wikipedia.org/wiki/Getent
 Why does LibrOffice starts so slow? - English - Ask LibreOffice, https://ask.libreoffice.org/t/why-does-libroffice-starts-so-slow/46960/21
 Control-X - Wikipedia, https://en.wikipedia.org/wiki/Control-X
+Vim screencast #83: Emoji - YouTube, https://www.youtube.com/watch?v=F91VWOelFNE

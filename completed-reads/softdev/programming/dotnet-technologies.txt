@@ -1,0 +1,1 @@
+The Stack Is An Implementation Detail, Part One | Microsoft Learn, https://learn.microsoft.com/en-us/archive/blogs/ericlippert/the-stack-is-an-implementation-detail-part-one

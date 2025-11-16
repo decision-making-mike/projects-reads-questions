@@ -11,3 +11,4 @@ How complex a program can be without variables? - Software Engineering Stack Exc
 Interactive programming - Wikipedia, https://en.wikipedia.org/wiki/Interactive_programming
 Why you should reconsider using third-party JavaScript libraries | by Paul Sweeney | Medium, https://medium.com/@PepsRyuu/why-you-should-reconsider-using-third-party-javascript-libraries-fc9787b3fb44
 Pango - Wikipedia, https://en.wikipedia.org/wiki/Pango
+static (keyword) - Wikipedia, https://en.wikipedia.org/wiki/Static_%28keyword%29
