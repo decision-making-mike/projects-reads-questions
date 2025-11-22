@@ -24,3 +24,4 @@ typography - What is the difference between a font and a typeface? - Graphic Des
 OTF Font appears empty in FontForge - Stack Overflow, https://stackoverflow.com/questions/72422254/otf-font-appears-empty-in-fontforge
 TTF Font appears empty in FontForge · Issue #2906 · fontforge/fontforge, https://github.com/fontforge/fontforge/issues/2906
 fonts - Is Typeface and Type Family the same thing? - Graphic Design Stack Exchange, https://graphicdesign.stackexchange.com/questions/71227/is-typeface-and-type-family-the-same-thing
+An Introduction to TrueType Fonts: A look inside the TTF format, https://scripts.sil.org/cms/scripts/page.php?id=iws-chapter08&site_id=nrsi
